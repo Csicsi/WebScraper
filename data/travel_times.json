@@ -1,0 +1,4052 @@
+{
+    "Bad Sauerbrunn": {
+        "original_name": "https://bahnhof.oebb.at/de/burgenland/bad-sauerbrunn",
+        "latitude": 47.77391410000001,
+        "longitude": 16.3245476,
+        "travel_times": {
+            "Schimetta": 61,
+            "Sopron": 29,
+            "Gloggnitz": 73
+        }
+    },
+    "Breitenbrunn": {
+        "original_name": "https://bahnhof.oebb.at/de/burgenland/breitenbrunn",
+        "latitude": 47.9424087,
+        "longitude": 16.7396837,
+        "travel_times": {
+            "Schimetta": 95,
+            "Sopron": 95,
+            "Gloggnitz": 162
+        }
+    },
+    "Bruck An Der Leitha": {
+        "original_name": "https://bahnhof.oebb.at/de/burgenland/bruck-an-der-leitha",
+        "latitude": 48.0192506,
+        "longitude": 16.7794899,
+        "travel_times": {
+            "Schimetta": 63,
+            "Sopron": 111,
+            "Gloggnitz": 100
+        }
+    },
+    "Deutschkreutz": {
+        "original_name": "https://bahnhof.oebb.at/de/burgenland/deutschkreutz",
+        "latitude": 47.6036808,
+        "longitude": 16.6172297,
+        "travel_times": {
+            "Schimetta": 98,
+            "Sopron": 12,
+            "Gloggnitz": 135
+        }
+    },
+    "Donnerskirchen": {
+        "original_name": "https://bahnhof.oebb.at/de/burgenland/donnerskirchen",
+        "latitude": 47.8919427,
+        "longitude": 16.6557247,
+        "travel_times": {
+            "Schimetta": 104,
+            "Sopron": 87,
+            "Gloggnitz": 171
+        }
+    },
+    "Eisenstadt": {
+        "original_name": "https://bahnhof.oebb.at/de/burgenland/eisenstadt",
+        "latitude": 47.8392525,
+        "longitude": 16.528888,
+        "travel_times": {
+            "Schimetta": 99,
+            "Sopron": 28,
+            "Gloggnitz": 136
+        }
+    },
+    "Eisenstadt Schule": {
+        "original_name": "https://bahnhof.oebb.at/de/burgenland/eisenstadt-schule",
+        "latitude": 47.8451194,
+        "longitude": 16.5349611,
+        "travel_times": {
+            "Schimetta": 105,
+            "Sopron": 34,
+            "Gloggnitz": 142
+        }
+    },
+    "Gattendorf": {
+        "original_name": "https://bahnhof.oebb.at/de/burgenland/gattendorf",
+        "latitude": 48.01095309999999,
+        "longitude": 16.982409,
+        "travel_times": {
+            "Schimetta": 83,
+            "Sopron": 132,
+            "Gloggnitz": 120
+        }
+    },
+    "Jennersdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/burgenland/jennersdorf",
+        "latitude": 46.93523829999999,
+        "longitude": 16.1399588,
+        "travel_times": {
+            "Schimetta": 238,
+            "Sopron": 125,
+            "Gloggnitz": 198
+        }
+    },
+    "Jois": {
+        "original_name": "https://bahnhof.oebb.at/de/burgenland/jois",
+        "latitude": 47.95813949999999,
+        "longitude": 16.7904179,
+        "travel_times": {
+            "Schimetta": 86,
+            "Sopron": 95,
+            "Gloggnitz": 153
+        }
+    },
+    "Kittsee": {
+        "original_name": "https://bahnhof.oebb.at/de/burgenland/kittsee",
+        "latitude": 48.0821035,
+        "longitude": 17.0708933,
+        "travel_times": {
+            "Schimetta": 89,
+            "Sopron": 138,
+            "Gloggnitz": 126
+        }
+    },
+    "Loipersbach Schattendorf": {
+        "original_name": "https://bahnhof.oebb.at/de/burgenland/loipersbach-schattendorf",
+        "latitude": 47.7008526,
+        "longitude": 16.4920511,
+        "travel_times": {
+            "Schimetta": 81,
+            "Sopron": 7,
+            "Gloggnitz": 93
+        }
+    },
+    "Marz Rohrbach": {
+        "original_name": "https://bahnhof.oebb.at/de/burgenland/marz-rohrbach",
+        "latitude": 47.7175632,
+        "longitude": 16.4288279,
+        "travel_times": {
+            "Schimetta": 75,
+            "Sopron": 13,
+            "Gloggnitz": 87
+        }
+    },
+    "Mattersburg": {
+        "original_name": "https://bahnhof.oebb.at/de/burgenland/mattersburg",
+        "latitude": 47.7169929,
+        "longitude": 16.4286521,
+        "travel_times": {
+            "Schimetta": 76,
+            "Sopron": 13,
+            "Gloggnitz": 88
+        }
+    },
+    "Mattersburg Nord": {
+        "original_name": "https://bahnhof.oebb.at/de/burgenland/mattersburg-nord",
+        "latitude": 47.7410739,
+        "longitude": 16.4202462,
+        "travel_times": {
+            "Schimetta": 92,
+            "Sopron": 39,
+            "Gloggnitz": 104
+        }
+    },
+    "Mogersdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/burgenland/mogersdorf",
+        "latitude": 46.9454283,
+        "longitude": 16.2293191,
+        "travel_times": {
+            "Schimetta": 244,
+            "Sopron": 127,
+            "Gloggnitz": 216
+        }
+    },
+    "Neudoerfl": {
+        "original_name": "https://bahnhof.oebb.at/de/burgenland/neudoerfl",
+        "latitude": 47.7940796,
+        "longitude": 16.3004063,
+        "travel_times": {
+            "Schimetta": 57,
+            "Sopron": 33,
+            "Gloggnitz": 61
+        }
+    },
+    "Neusiedl Am See": {
+        "original_name": "https://bahnhof.oebb.at/de/burgenland/neusiedl-am-see",
+        "latitude": 47.9555868,
+        "longitude": 16.8236854,
+        "travel_times": {
+            "Schimetta": 84,
+            "Sopron": 103,
+            "Gloggnitz": 151
+        }
+    },
+    "Nickelsdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/burgenland/nickelsdorf",
+        "latitude": 47.9425397,
+        "longitude": 17.0866264,
+        "travel_times": {
+            "Schimetta": 94,
+            "Sopron": 148,
+            "Gloggnitz": 156
+        }
+    },
+    "Pama": {
+        "original_name": "https://bahnhof.oebb.at/de/burgenland/pama",
+        "latitude": 48.0415411,
+        "longitude": 17.0399935,
+        "travel_times": {
+            "Schimetta": 85,
+            "Sopron": 133,
+            "Gloggnitz": 122
+        }
+    },
+    "Parndorf": {
+        "original_name": "https://bahnhof.oebb.at/de/burgenland/parndorf",
+        "latitude": 47.9871775,
+        "longitude": 16.8707186,
+        "travel_times": {
+            "Schimetta": 69,
+            "Sopron": 118,
+            "Gloggnitz": 106
+        }
+    },
+    "Parndorf Ort": {
+        "original_name": "https://bahnhof.oebb.at/de/burgenland/parndorf-ort",
+        "latitude": 47.9871775,
+        "longitude": 16.8707186,
+        "travel_times": {
+            "Schimetta": 69,
+            "Sopron": 118,
+            "Gloggnitz": 106
+        }
+    },
+    "Purbach Am Neusiedlersee": {
+        "original_name": "https://bahnhof.oebb.at/de/burgenland/purbach-am-neusiedlersee",
+        "latitude": 47.9077279,
+        "longitude": 16.6999656,
+        "travel_times": {
+            "Schimetta": 95,
+            "Sopron": 87,
+            "Gloggnitz": 162
+        }
+    },
+    "Schuetzen Am Gebirge": {
+        "original_name": "https://bahnhof.oebb.at/de/burgenland/schuetzen-am-gebirge",
+        "latitude": 47.8483253,
+        "longitude": 16.6189267,
+        "travel_times": {
+            "Schimetta": 102,
+            "Sopron": 76,
+            "Gloggnitz": 169
+        }
+    },
+    "Schuetzen Haltestelle": {
+        "original_name": "https://bahnhof.oebb.at/de/burgenland/schuetzen-haltestelle",
+        "latitude": 47.8508708,
+        "longitude": 16.6302674,
+        "travel_times": {
+            "Schimetta": 100,
+            "Sopron": 78,
+            "Gloggnitz": 167
+        }
+    },
+    "Wiesen Sigless": {
+        "original_name": "https://bahnhof.oebb.at/de/burgenland/wiesen-sigless",
+        "latitude": 47.744008,
+        "longitude": 16.3558868,
+        "travel_times": {
+            "Schimetta": 100,
+            "Sopron": 42,
+            "Gloggnitz": 112
+        }
+    },
+    "Winden": {
+        "original_name": "https://bahnhof.oebb.at/de/burgenland/winden",
+        "latitude": 47.9473235,
+        "longitude": 16.7573368,
+        "travel_times": {
+            "Schimetta": 89,
+            "Sopron": 92,
+            "Gloggnitz": 156
+        }
+    },
+    "Wulkaprodersdorf Haltestelle": {
+        "original_name": "https://bahnhof.oebb.at/de/burgenland/wulkaprodersdorf-haltestelle",
+        "latitude": 47.7886582,
+        "longitude": 16.4908875,
+        "travel_times": {
+            "Schimetta": 65,
+            "Sopron": 17,
+            "Gloggnitz": 102
+        }
+    },
+    "Zurndorf": {
+        "original_name": "https://bahnhof.oebb.at/de/burgenland/zurndorf",
+        "latitude": 47.9683502,
+        "longitude": 17.023744,
+        "travel_times": {
+            "Schimetta": 89,
+            "Sopron": 151,
+            "Gloggnitz": 151
+        }
+    },
+    "Breitensee": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/breitensee",
+        "latitude": 48.2039019,
+        "longitude": 16.2931473,
+        "travel_times": {
+            "Schimetta": 33,
+            "Sopron": 116,
+            "Gloggnitz": 104
+        }
+    },
+    "Floridsdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/floridsdorf",
+        "latitude": 48.2569552,
+        "longitude": 16.3990778,
+        "travel_times": {
+            "Schimetta": 29,
+            "Sopron": 100,
+            "Gloggnitz": 88
+        }
+    },
+    "Geiselbergstrasse": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/geiselbergstrasse",
+        "latitude": 48.1755283,
+        "longitude": 16.4071632,
+        "travel_times": {
+            "Schimetta": 29,
+            "Sopron": 92,
+            "Gloggnitz": 80
+        }
+    },
+    "Gersthof": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/gersthof",
+        "latitude": 48.2310384,
+        "longitude": 16.3288668,
+        "travel_times": {
+            "Schimetta": 33,
+            "Sopron": 113,
+            "Gloggnitz": 101
+        }
+    },
+    "Grillgasse": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/grillgasse",
+        "latitude": 48.1672463,
+        "longitude": 16.4069306,
+        "travel_times": {
+            "Schimetta": 31,
+            "Sopron": 85,
+            "Gloggnitz": 73
+        }
+    },
+    "Handelskai": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/handelskai",
+        "latitude": 48.2438062,
+        "longitude": 16.3838948,
+        "travel_times": {
+            "Schimetta": 28,
+            "Sopron": 100,
+            "Gloggnitz": 88
+        }
+    },
+    "Hernals": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/hernals",
+        "latitude": 48.22312280000001,
+        "longitude": 16.3148639,
+        "travel_times": {
+            "Schimetta": 32,
+            "Sopron": 108,
+            "Gloggnitz": 96
+        }
+    },
+    "Jedlersdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/jedlersdorf",
+        "latitude": 48.2710303,
+        "longitude": 16.3954744,
+        "travel_times": {
+            "Schimetta": 40,
+            "Sopron": 124,
+            "Gloggnitz": 112
+        }
+    },
+    "Kaiserebersdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/kaiserebersdorf",
+        "latitude": 48.1637569,
+        "longitude": 16.4457987,
+        "travel_times": {
+            "Schimetta": 49,
+            "Sopron": 109,
+            "Gloggnitz": 97
+        }
+    },
+    "Krottenbachstrasse": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/krottenbachstrasse",
+        "latitude": 48.2400657,
+        "longitude": 16.3411387,
+        "travel_times": {
+            "Schimetta": 37,
+            "Sopron": 110,
+            "Gloggnitz": 98
+        }
+    },
+    "Leopoldau": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/leopoldau",
+        "latitude": 48.2755811,
+        "longitude": 16.4397699,
+        "travel_times": {
+            "Schimetta": 50,
+            "Sopron": 118,
+            "Gloggnitz": 106
+        }
+    },
+    "Liesing": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/liesing",
+        "latitude": 48.1349159,
+        "longitude": 16.2837074,
+        "travel_times": {
+            "Schimetta": 37,
+            "Sopron": 82,
+            "Gloggnitz": 72
+        }
+    },
+    "Nussdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/nussdorf",
+        "latitude": 48.2599545,
+        "longitude": 16.3675057,
+        "travel_times": {
+            "Schimetta": 36,
+            "Sopron": 110,
+            "Gloggnitz": 98
+        }
+    },
+    "Ottakring": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/ottakring",
+        "latitude": 48.2118542,
+        "longitude": 16.3109947,
+        "travel_times": {
+            "Schimetta": 24,
+            "Sopron": 98,
+            "Gloggnitz": 86
+        }
+    },
+    "Rennweg": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/rennweg",
+        "latitude": 48.1955253,
+        "longitude": 16.3861312,
+        "travel_times": {
+            "Schimetta": 25,
+            "Sopron": 84,
+            "Gloggnitz": 72
+        }
+    },
+    "Siemensstrasse": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/siemensstrasse",
+        "latitude": 48.2709321,
+        "longitude": 16.4207395,
+        "travel_times": {
+            "Schimetta": 36,
+            "Sopron": 104,
+            "Gloggnitz": 92
+        }
+    },
+    "Wien Aspern Nord": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/wien-aspern-nord",
+        "latitude": 48.2430829,
+        "longitude": 16.5054352,
+        "travel_times": {
+            "Schimetta": 68,
+            "Sopron": 122,
+            "Gloggnitz": 110
+        }
+    },
+    "Wien Atzgersdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/wien-atzgersdorf",
+        "latitude": 48.1477377,
+        "longitude": 16.288702,
+        "travel_times": {
+            "Schimetta": 26,
+            "Sopron": 85,
+            "Gloggnitz": 73
+        }
+    },
+    "Wien Blumental": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/wien-blumental",
+        "latitude": 48.1382971,
+        "longitude": 16.3701633,
+        "travel_times": {
+            "Schimetta": 24,
+            "Sopron": 73,
+            "Gloggnitz": 75
+        }
+    },
+    "Wien Erzherzog Karl Strasse": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/wien-erzherzog-karl-strasse",
+        "latitude": 48.229838,
+        "longitude": 16.4530785,
+        "travel_times": {
+            "Schimetta": 37,
+            "Sopron": 96,
+            "Gloggnitz": 84
+        }
+    },
+    "Wien Franz Josefs Bahnhof": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/wien-franz-josefs-bahnhof",
+        "latitude": 48.2262737,
+        "longitude": 16.3612902,
+        "travel_times": {
+            "Schimetta": 28,
+            "Sopron": 106,
+            "Gloggnitz": 94
+        }
+    },
+    "Wien Hadersdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/wien-hadersdorf",
+        "latitude": 48.2106356,
+        "longitude": 16.2217663,
+        "travel_times": {
+            "Schimetta": 28,
+            "Sopron": 107,
+            "Gloggnitz": 96
+        }
+    },
+    "Wien Haidestrasse": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/wien-haidestrasse",
+        "latitude": 48.1637569,
+        "longitude": 16.4457987,
+        "travel_times": {
+            "Schimetta": 49,
+            "Sopron": 109,
+            "Gloggnitz": 97
+        }
+    },
+    "Wien Hauptbahnhof": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/wien-hauptbahnhof",
+        "latitude": 48.1850069,
+        "longitude": 16.3778542,
+        "travel_times": {
+            "Schimetta": 31,
+            "Sopron": 74,
+            "Gloggnitz": 61
+        }
+    },
+    "Wien Heiligenstadt": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/wien-heiligenstadt",
+        "latitude": 48.2492014,
+        "longitude": 16.365032,
+        "travel_times": {
+            "Schimetta": 27,
+            "Sopron": 105,
+            "Gloggnitz": 93
+        }
+    },
+    "Wien Hetzendorf": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/wien-hetzendorf",
+        "latitude": 48.1656355,
+        "longitude": 16.3141695,
+        "travel_times": {
+            "Schimetta": 23,
+            "Sopron": 82,
+            "Gloggnitz": 70
+        }
+    },
+    "Wien Hirschstetten": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/wien-hirschstetten",
+        "latitude": 48.2391942,
+        "longitude": 16.4604857,
+        "travel_times": {
+            "Schimetta": 62,
+            "Sopron": 113,
+            "Gloggnitz": 101
+        }
+    },
+    "Wien Huetteldorf": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/wien-huetteldorf",
+        "latitude": 48.1971942,
+        "longitude": 16.2608343,
+        "travel_times": {
+            "Schimetta": 14,
+            "Sopron": 94,
+            "Gloggnitz": 82
+        }
+    },
+    "Wien Matzleinsdorfer Platz": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/wien-matzleinsdorfer-platz",
+        "latitude": 48.1804954,
+        "longitude": 16.3587017,
+        "travel_times": {
+            "Schimetta": 18,
+            "Sopron": 75,
+            "Gloggnitz": 63
+        }
+    },
+    "Wien Meidling": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/wien-meidling",
+        "latitude": 48.1766882,
+        "longitude": 16.3414781,
+        "travel_times": {
+            "Schimetta": 22,
+            "Sopron": 82,
+            "Gloggnitz": 70
+        }
+    },
+    "Wien Mitte": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/wien-mitte",
+        "latitude": 48.1973583,
+        "longitude": 16.3954948,
+        "travel_times": {
+            "Schimetta": 28,
+            "Sopron": 94,
+            "Gloggnitz": 82
+        }
+    },
+    "Wien Oberdoebling": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/wien-oberdoebling",
+        "latitude": 48.2399666,
+        "longitude": 16.3489876,
+        "travel_times": {
+            "Schimetta": 41,
+            "Sopron": 106,
+            "Gloggnitz": 94
+        }
+    },
+    "Wien Penzing": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/wien-penzing",
+        "latitude": 48.1924402,
+        "longitude": 16.304514,
+        "travel_times": {
+            "Schimetta": 19,
+            "Sopron": 98,
+            "Gloggnitz": 86
+        }
+    },
+    "Wien Praterkai": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/wien-praterkai",
+        "latitude": 48.1997259,
+        "longitude": 16.4407194,
+        "travel_times": {
+            "Schimetta": 46,
+            "Sopron": 105,
+            "Gloggnitz": 93
+        }
+    },
+    "Wien Praterstern": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/wien-praterstern",
+        "latitude": 48.2187834,
+        "longitude": 16.392127,
+        "travel_times": {
+            "Schimetta": 27,
+            "Sopron": 90,
+            "Gloggnitz": 78
+        }
+    },
+    "Wien Quartier Belvedere": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/wien-quartier-belvedere",
+        "latitude": 48.1806577,
+        "longitude": 16.3884416,
+        "travel_times": {
+            "Schimetta": 36,
+            "Sopron": 93,
+            "Gloggnitz": 80
+        }
+    },
+    "Wien Simmering": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/wien-simmering",
+        "latitude": 48.162179,
+        "longitude": 16.4287745,
+        "travel_times": {
+            "Schimetta": 48,
+            "Sopron": 100,
+            "Gloggnitz": 88
+        }
+    },
+    "Wien Speising": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/wien-speising",
+        "latitude": 48.1771051,
+        "longitude": 16.2836579,
+        "travel_times": {
+            "Schimetta": 23,
+            "Sopron": 100,
+            "Gloggnitz": 88
+        }
+    },
+    "Wien Spittelau": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/wien-spittelau",
+        "latitude": 48.1853795,
+        "longitude": 16.2966058,
+        "travel_times": {
+            "Schimetta": 21,
+            "Sopron": 99,
+            "Gloggnitz": 88
+        }
+    },
+    "Wien Stadlau": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/wien-stadlau",
+        "latitude": 48.2351828,
+        "longitude": 16.4810643,
+        "travel_times": {
+            "Schimetta": 55,
+            "Sopron": 113,
+            "Gloggnitz": 101
+        }
+    },
+    "Wien Strebersdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/wien-strebersdorf",
+        "latitude": 48.2841776,
+        "longitude": 16.376412,
+        "travel_times": {
+            "Schimetta": 56,
+            "Sopron": 128,
+            "Gloggnitz": 117
+        }
+    },
+    "Wien Suessenbrunn": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/wien-suessenbrunn",
+        "latitude": 48.2834341,
+        "longitude": 16.4868429,
+        "travel_times": {
+            "Schimetta": 50,
+            "Sopron": 114,
+            "Gloggnitz": 102
+        }
+    },
+    "Wien Traisengasse": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/wien-traisengasse",
+        "latitude": 48.2341181,
+        "longitude": 16.3840122,
+        "travel_times": {
+            "Schimetta": 29,
+            "Sopron": 92,
+            "Gloggnitz": 80
+        }
+    },
+    "Wien Weidlingau": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/wien-weidlingau",
+        "latitude": 48.2095636,
+        "longitude": 16.2142397,
+        "travel_times": {
+            "Schimetta": 35,
+            "Sopron": 113,
+            "Gloggnitz": 101
+        }
+    },
+    "Wien Westbahnhof": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/wien-westbahnhof",
+        "latitude": 48.19671899999999,
+        "longitude": 16.3375983,
+        "travel_times": {
+            "Schimetta": 9,
+            "Sopron": 83,
+            "Gloggnitz": 72
+        }
+    },
+    "Wien Wolf In Der Au": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/wien-wolf-in-der-au",
+        "latitude": 48.2050403,
+        "longitude": 16.2351261,
+        "travel_times": {
+            "Schimetta": 26,
+            "Sopron": 106,
+            "Gloggnitz": 94
+        }
+    },
+    "Zentralfriedhof": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/zentralfriedhof",
+        "latitude": 48.1480952,
+        "longitude": 16.4416926,
+        "travel_times": {
+            "Schimetta": 63,
+            "Sopron": 116,
+            "Gloggnitz": 104
+        }
+    },
+    "Absdorf Hippersdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/absdorf-hippersdorf",
+        "latitude": 48.4019124,
+        "longitude": 15.9854035,
+        "travel_times": {
+            "Schimetta": 61,
+            "Sopron": 135,
+            "Gloggnitz": 123
+        }
+    },
+    "Achau": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/achau",
+        "latitude": 48.081655,
+        "longitude": 16.3781337,
+        "travel_times": {
+            "Schimetta": 33,
+            "Sopron": 70,
+            "Gloggnitz": 71
+        }
+    },
+    "Allentsteig": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/allentsteig",
+        "latitude": 48.7157877,
+        "longitude": 15.3296784,
+        "travel_times": {
+            "Schimetta": 133,
+            "Sopron": 217,
+            "Gloggnitz": 225
+        }
+    },
+    "Altenhof": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/altenhof",
+        "latitude": 48.55774,
+        "longitude": 15.6871,
+        "travel_times": {
+            "Schimetta": 127,
+            "Sopron": 201,
+            "Gloggnitz": 189
+        }
+    },
+    "Amstetten": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/amstetten",
+        "latitude": 48.1217789,
+        "longitude": 14.8786896,
+        "travel_times": {
+            "Schimetta": 65,
+            "Sopron": 126,
+            "Gloggnitz": 114
+        }
+    },
+    "Angern": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/angern",
+        "latitude": 48.3842017,
+        "longitude": 16.8260736,
+        "travel_times": {
+            "Schimetta": 67,
+            "Sopron": 152,
+            "Gloggnitz": 140
+        }
+    },
+    "Aschbach Haltestelle": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/aschbach-haltestelle",
+        "latitude": 48.0728933,
+        "longitude": 14.7529871,
+        "travel_times": {
+            "Schimetta": 94,
+            "Sopron": 165,
+            "Gloggnitz": 174
+        }
+    },
+    "Aspang": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/aspang",
+        "latitude": 47.5624372,
+        "longitude": 16.0993862,
+        "travel_times": {
+            "Schimetta": 73,
+            "Sopron": 97,
+            "Gloggnitz": 55
+        }
+    },
+    "Atzenbrugg": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/atzenbrugg",
+        "latitude": 48.2933574,
+        "longitude": 15.9116054,
+        "travel_times": {
+            "Schimetta": 62,
+            "Sopron": 144,
+            "Gloggnitz": 153
+        }
+    },
+    "Ausschlag Zoebern": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/ausschlag-zoebern",
+        "latitude": 47.5325431,
+        "longitude": 16.0828204,
+        "travel_times": {
+            "Schimetta": 84,
+            "Sopron": 117,
+            "Gloggnitz": 66
+        }
+    },
+    "Bad Deutsch Altenburg": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/bad-deutsch-altenburg",
+        "latitude": 48.131873,
+        "longitude": 16.9038849,
+        "travel_times": {
+            "Schimetta": 97,
+            "Sopron": 160,
+            "Gloggnitz": 148
+        }
+    },
+    "Baden": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/baden",
+        "latitude": 48.0040767,
+        "longitude": 16.2430087,
+        "travel_times": {
+            "Schimetta": 31,
+            "Sopron": 69,
+            "Gloggnitz": 58
+        }
+    },
+    "Bad Erlach": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/bad-erlach",
+        "latitude": 47.7323298,
+        "longitude": 16.2122541,
+        "travel_times": {
+            "Schimetta": 55,
+            "Sopron": 66,
+            "Gloggnitz": 37
+        }
+    },
+    "Bad Fischau": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/bad-fischau",
+        "latitude": 47.8312117,
+        "longitude": 16.1709193,
+        "travel_times": {
+            "Schimetta": 65,
+            "Sopron": 64,
+            "Gloggnitz": 72
+        }
+    },
+    "Bad Fischau Brunn": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/bad-fischau-brunn",
+        "latitude": 47.8268983,
+        "longitude": 16.1732898,
+        "travel_times": {
+            "Schimetta": 57,
+            "Sopron": 61,
+            "Gloggnitz": 69
+        }
+    },
+    "Bad Voeslau": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/bad-voeslau",
+        "latitude": 47.9691726,
+        "longitude": 16.2243522,
+        "travel_times": {
+            "Schimetta": 41,
+            "Sopron": 76,
+            "Gloggnitz": 54
+        }
+    },
+    "Berndorf Fabrik": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/berndorf-fabrik",
+        "latitude": 47.9403856,
+        "longitude": 16.13395,
+        "travel_times": {
+            "Schimetta": 73,
+            "Sopron": 107,
+            "Gloggnitz": 115
+        }
+    },
+    "Berndorf Stadt": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/berndorf-stadt",
+        "latitude": 47.944925,
+        "longitude": 16.1084427,
+        "travel_times": {
+            "Schimetta": 76,
+            "Sopron": 110,
+            "Gloggnitz": 118
+        }
+    },
+    "Bernhardsthal": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/bernhardsthal",
+        "latitude": 48.687791,
+        "longitude": 16.879142,
+        "travel_times": {
+            "Schimetta": 98,
+            "Sopron": 172,
+            "Gloggnitz": 171
+        }
+    },
+    "Bisamberg": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/bisamberg",
+        "latitude": 48.3114903,
+        "longitude": 16.3457564,
+        "travel_times": {
+            "Schimetta": 52,
+            "Sopron": 136,
+            "Gloggnitz": 124
+        }
+    },
+    "Blindenmarkt": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/blindenmarkt",
+        "latitude": 48.127644,
+        "longitude": 14.9834514,
+        "travel_times": {
+            "Schimetta": 99,
+            "Sopron": 159,
+            "Gloggnitz": 148
+        }
+    },
+    "Boeheimkirchen": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/boeheimkirchen",
+        "latitude": 48.1977568,
+        "longitude": 15.7630978,
+        "travel_times": {
+            "Schimetta": 79,
+            "Sopron": 125,
+            "Gloggnitz": 113
+        }
+    },
+    "Breitenstein": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/breitenstein",
+        "latitude": 47.6601151,
+        "longitude": 15.8201929,
+        "travel_times": {
+            "Schimetta": 89,
+            "Sopron": 123,
+            "Gloggnitz": 28
+        }
+    },
+    "Breitenwaida": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/breitenwaida",
+        "latitude": 48.51506,
+        "longitude": 16.07206,
+        "travel_times": {
+            "Schimetta": 83,
+            "Sopron": 167,
+            "Gloggnitz": 156
+        }
+    },
+    "Brunn An Der Schneebergbahn": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/brunn-an-der-schneebergbahn",
+        "latitude": 47.8168968,
+        "longitude": 16.167584,
+        "travel_times": {
+            "Schimetta": 81,
+            "Sopron": 85,
+            "Gloggnitz": 81
+        }
+    },
+    "Brunn Maria Enzersdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/brunn-maria-enzersdorf",
+        "latitude": 48.1135005,
+        "longitude": 16.3010359,
+        "travel_times": {
+            "Schimetta": 50,
+            "Sopron": 114,
+            "Gloggnitz": 88
+        }
+    },
+    "Buchberg": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/buchberg",
+        "latitude": 48.5755,
+        "longitude": 15.65762,
+        "travel_times": {
+            "Schimetta": 118,
+            "Sopron": 192,
+            "Gloggnitz": 180
+        }
+    },
+    "Deutsch Wagram": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/deutsch-wagram",
+        "latitude": 48.3029166,
+        "longitude": 16.5653622,
+        "travel_times": {
+            "Schimetta": 55,
+            "Sopron": 119,
+            "Gloggnitz": 107
+        }
+    },
+    "Dreistetten": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/dreistetten",
+        "latitude": 47.8707959,
+        "longitude": 16.102119,
+        "travel_times": {
+            "Schimetta": 87,
+            "Sopron": 85,
+            "Gloggnitz": 94
+        }
+    },
+    "Duernkrut": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/duernkrut",
+        "latitude": 48.47428,
+        "longitude": 16.8478901,
+        "travel_times": {
+            "Schimetta": 93,
+            "Sopron": 178,
+            "Gloggnitz": 166
+        }
+    },
+    "Duerrwien": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/duerrwien",
+        "latitude": 48.1714209,
+        "longitude": 16.0429502,
+        "travel_times": {
+            "Schimetta": 71,
+            "Sopron": 151,
+            "Gloggnitz": 139
+        }
+    },
+    "Ebenfurth": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/ebenfurth",
+        "latitude": 47.8769864,
+        "longitude": 16.3610112,
+        "travel_times": {
+            "Schimetta": 44,
+            "Sopron": 37,
+            "Gloggnitz": 75
+        }
+    },
+    "Ebreichsdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/ebreichsdorf",
+        "latitude": 47.9634037,
+        "longitude": 16.417148,
+        "travel_times": {
+            "Schimetta": 43,
+            "Sopron": 58,
+            "Gloggnitz": 65
+        }
+    },
+    "Edlitz Grimmenstein": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/edlitz-grimmenstein",
+        "latitude": 47.6169968,
+        "longitude": 16.1276086,
+        "travel_times": {
+            "Schimetta": 67,
+            "Sopron": 91,
+            "Gloggnitz": 49
+        }
+    },
+    "Eichberg": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/eichberg",
+        "latitude": 47.6719175,
+        "longitude": 15.910921,
+        "travel_times": {
+            "Schimetta": 91,
+            "Sopron": 125,
+            "Gloggnitz": 21
+        }
+    },
+    "Eichgraben Altlengbach": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/eichgraben-altlengbach",
+        "latitude": 48.1685406,
+        "longitude": 15.9893241,
+        "travel_times": {
+            "Schimetta": 73,
+            "Sopron": 148,
+            "Gloggnitz": 126
+        }
+    },
+    "Ennsdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/ennsdorf",
+        "latitude": 48.2169065,
+        "longitude": 14.5056202,
+        "travel_times": {
+            "Schimetta": 112,
+            "Sopron": 171,
+            "Gloggnitz": 175
+        }
+    },
+    "Enzersdorf Bei Staatz": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/enzersdorf-bei-staatz",
+        "latitude": 48.6793022,
+        "longitude": 16.4998298,
+        "travel_times": {
+            "Schimetta": 117,
+            "Sopron": 201,
+            "Gloggnitz": 207
+        }
+    },
+    "Enzesfeld Lindabrunn": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/enzesfeld-lindabrunn",
+        "latitude": 47.9212149,
+        "longitude": 16.1871507,
+        "travel_times": {
+            "Schimetta": 65,
+            "Sopron": 99,
+            "Gloggnitz": 107
+        }
+    },
+    "Erlauf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/erlauf",
+        "latitude": 48.1781468,
+        "longitude": 15.1856818,
+        "travel_times": {
+            "Schimetta": 107,
+            "Sopron": 149,
+            "Gloggnitz": 137
+        }
+    },
+    "Ernsthofen": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/ernsthofen",
+        "latitude": 48.12596610000001,
+        "longitude": 14.4804644,
+        "travel_times": {
+            "Schimetta": 109,
+            "Sopron": 168,
+            "Gloggnitz": 176
+        }
+    },
+    "Etsdorf Strass": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/etsdorf-strass",
+        "latitude": 48.45308600000001,
+        "longitude": 15.730331,
+        "travel_times": {
+            "Schimetta": 80,
+            "Sopron": 154,
+            "Gloggnitz": 142
+        }
+    },
+    "Felixdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/felixdorf",
+        "latitude": 47.8868845,
+        "longitude": 16.2478458,
+        "travel_times": {
+            "Schimetta": 56,
+            "Sopron": 66,
+            "Gloggnitz": 45
+        }
+    },
+    "Fels": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/fels",
+        "latitude": 48.4412217,
+        "longitude": 15.8183173,
+        "travel_times": {
+            "Schimetta": 95,
+            "Sopron": 169,
+            "Gloggnitz": 157
+        }
+    },
+    "Feuerwerksanstalt": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/feuerwerksanstalt",
+        "latitude": 47.8480708,
+        "longitude": 16.1895695,
+        "travel_times": {
+            "Schimetta": 63,
+            "Sopron": 62,
+            "Gloggnitz": 70
+        }
+    },
+    "Fischamend": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/fischamend",
+        "latitude": 48.1252548,
+        "longitude": 16.6031019,
+        "travel_times": {
+            "Schimetta": 77,
+            "Sopron": 140,
+            "Gloggnitz": 129
+        }
+    },
+    "Fraettingsdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/fraettingsdorf",
+        "latitude": 48.6430878,
+        "longitude": 16.5122879,
+        "travel_times": {
+            "Schimetta": 89,
+            "Sopron": 173,
+            "Gloggnitz": 179
+        }
+    },
+    "Furth Goettweig": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/furth-goettweig",
+        "latitude": 48.3731219,
+        "longitude": 15.6158242,
+        "travel_times": {
+            "Schimetta": 78,
+            "Sopron": 132,
+            "Gloggnitz": 120
+        }
+    },
+    "Furth Palt": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/furth-palt",
+        "latitude": 48.38430990000001,
+        "longitude": 15.6060939,
+        "travel_times": {
+            "Schimetta": 80,
+            "Sopron": 134,
+            "Gloggnitz": 122
+        }
+    },
+    "Gaisruck": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/gaisruck",
+        "latitude": 48.3950262,
+        "longitude": 16.0664985,
+        "travel_times": {
+            "Schimetta": 75,
+            "Sopron": 160,
+            "Gloggnitz": 155
+        }
+    },
+    "Gruenbach Schule": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/gruenbach-schule",
+        "latitude": 47.8011482,
+        "longitude": 15.9825165,
+        "travel_times": {
+            "Schimetta": 87,
+            "Sopron": 91,
+            "Gloggnitz": 99
+        }
+    },
+    "Gumpoldskirchen": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/gumpoldskirchen",
+        "latitude": 48.04044390000001,
+        "longitude": 16.2837987,
+        "travel_times": {
+            "Schimetta": 51,
+            "Sopron": 102,
+            "Gloggnitz": 59
+        }
+    },
+    "Guntersdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/guntersdorf",
+        "latitude": 48.62965510000001,
+        "longitude": 16.0650665,
+        "travel_times": {
+            "Schimetta": 105,
+            "Sopron": 189,
+            "Gloggnitz": 197
+        }
+    },
+    "Guntramsdorf Kaiserau Haltestelle": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/guntramsdorf-kaiserau-haltestelle",
+        "latitude": 48.0444176,
+        "longitude": 16.3249033,
+        "travel_times": {
+            "Schimetta": 58,
+            "Sopron": 125,
+            "Gloggnitz": 94
+        }
+    },
+    "Guntramsdorf Thallern": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/guntramsdorf-thallern",
+        "latitude": 48.0719452,
+        "longitude": 16.2728981,
+        "travel_times": {
+            "Schimetta": 76,
+            "Sopron": 126,
+            "Gloggnitz": 109
+        }
+    },
+    "Gutenstein": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/gutenstein",
+        "latitude": 47.8765483,
+        "longitude": 15.8906025,
+        "travel_times": {
+            "Schimetta": 127,
+            "Sopron": 126,
+            "Gloggnitz": 134
+        }
+    },
+    "Hadersdorf Am Kamp": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/hadersdorf-am-kamp",
+        "latitude": 48.4464021,
+        "longitude": 15.7143221,
+        "travel_times": {
+            "Schimetta": 82,
+            "Sopron": 154,
+            "Gloggnitz": 143
+        }
+    },
+    "Hainfeld": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/hainfeld",
+        "latitude": 48.0387,
+        "longitude": 15.7693,
+        "travel_times": {
+            "Schimetta": 106,
+            "Sopron": 160,
+            "Gloggnitz": 148
+        }
+    },
+    "Haslau An Der Donau": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/haslau-an-der-donau",
+        "latitude": 48.11176,
+        "longitude": 16.68027,
+        "travel_times": {
+            "Schimetta": 73,
+            "Sopron": 136,
+            "Gloggnitz": 124
+        }
+    },
+    "Hausleiten": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/hausleiten",
+        "latitude": 48.3917441,
+        "longitude": 16.1081074,
+        "travel_times": {
+            "Schimetta": 67,
+            "Sopron": 161,
+            "Gloggnitz": 156
+        }
+    },
+    "Hautzendorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/hautzendorf",
+        "latitude": 48.4510714,
+        "longitude": 16.4930664,
+        "travel_times": {
+            "Schimetta": 67,
+            "Sopron": 156,
+            "Gloggnitz": 144
+        }
+    },
+    "Helmahof": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/helmahof",
+        "latitude": 48.3176693,
+        "longitude": 16.6344191,
+        "travel_times": {
+            "Schimetta": 62,
+            "Sopron": 126,
+            "Gloggnitz": 114
+        }
+    },
+    "Hennersdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/hennersdorf",
+        "latitude": 48.1118764,
+        "longitude": 16.3652229,
+        "travel_times": {
+            "Schimetta": 35,
+            "Sopron": 78,
+            "Gloggnitz": 79
+        }
+    },
+    "Herzogenburg": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/herzogenburg",
+        "latitude": 48.2766449,
+        "longitude": 15.6961377,
+        "travel_times": {
+            "Schimetta": 57,
+            "Sopron": 111,
+            "Gloggnitz": 99
+        }
+    },
+    "Herzogenburg Stadt": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/herzogenburg-stadt",
+        "latitude": 48.2845308,
+        "longitude": 15.7004408,
+        "travel_times": {
+            "Schimetta": 69,
+            "Sopron": 126,
+            "Gloggnitz": 114
+        }
+    },
+    "Herzogenburg Wielandsthal": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/herzogenburg-wielandsthal",
+        "latitude": 48.285321,
+        "longitude": 15.6904234,
+        "travel_times": {
+            "Schimetta": 60,
+            "Sopron": 114,
+            "Gloggnitz": 102
+        }
+    },
+    "Herzograd": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/herzograd",
+        "latitude": 48.1617946,
+        "longitude": 14.5077941,
+        "travel_times": {
+            "Schimetta": 114,
+            "Sopron": 173,
+            "Gloggnitz": 181
+        }
+    },
+    "Hetzmannsdorf Wullersdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/hetzmannsdorf-wullersdorf",
+        "latitude": 48.61664709999999,
+        "longitude": 16.0920947,
+        "travel_times": {
+            "Schimetta": 75,
+            "Sopron": 159,
+            "Gloggnitz": 167
+        }
+    },
+    "Hilm Kematen": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/hilm-kematen",
+        "latitude": 48.0226562,
+        "longitude": 14.7616262,
+        "travel_times": {
+            "Schimetta": 86,
+            "Sopron": 157,
+            "Gloggnitz": 165
+        }
+    },
+    "Himberg": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/himberg",
+        "latitude": 48.0825554,
+        "longitude": 16.4445575,
+        "travel_times": {
+            "Schimetta": 71,
+            "Sopron": 126,
+            "Gloggnitz": 114
+        }
+    },
+    "Hirschbach": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/hirschbach",
+        "latitude": 48.7499034,
+        "longitude": 15.1142572,
+        "travel_times": {
+            "Schimetta": 168,
+            "Sopron": 245,
+            "Gloggnitz": 260
+        }
+    },
+    "Hirtenberg": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/hirtenberg",
+        "latitude": 47.9293049,
+        "longitude": 16.1759851,
+        "travel_times": {
+            "Schimetta": 67,
+            "Sopron": 101,
+            "Gloggnitz": 109
+        }
+    },
+    "Hoebersdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/hoebersdorf",
+        "latitude": 48.44850049999999,
+        "longitude": 16.1733108,
+        "travel_times": {
+            "Schimetta": 70,
+            "Sopron": 154,
+            "Gloggnitz": 142
+        }
+    },
+    "Hohenau": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/hohenau",
+        "latitude": 48.6058694,
+        "longitude": 16.9044585,
+        "travel_times": {
+            "Schimetta": 101,
+            "Sopron": 186,
+            "Gloggnitz": 174
+        }
+    },
+    "Hollabrunn": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/hollabrunn",
+        "latitude": 48.5628928,
+        "longitude": 16.0726135,
+        "travel_times": {
+            "Schimetta": 70,
+            "Sopron": 153,
+            "Gloggnitz": 158
+        }
+    },
+    "Hoerersdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/hoerersdorf",
+        "latitude": 48.6212176,
+        "longitude": 16.5163105,
+        "travel_times": {
+            "Schimetta": 87,
+            "Sopron": 171,
+            "Gloggnitz": 177
+        }
+    },
+    "Horn": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/horn",
+        "latitude": 48.6659916,
+        "longitude": 15.673202,
+        "travel_times": {
+            "Schimetta": 110,
+            "Sopron": 169,
+            "Gloggnitz": 201
+        }
+    },
+    "Hoetzelsdorf Geras": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/hoetzelsdorf-geras",
+        "latitude": 48.7463358,
+        "longitude": 15.6683139,
+        "travel_times": {
+            "Schimetta": 116,
+            "Sopron": 200,
+            "Gloggnitz": 209
+        }
+    },
+    "Irnfritz": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/irnfritz",
+        "latitude": 48.7483776,
+        "longitude": 15.537645,
+        "travel_times": {
+            "Schimetta": 133,
+            "Sopron": 217,
+            "Gloggnitz": 225
+        }
+    },
+    "Jedenspeigen": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/jedenspeigen",
+        "latitude": 48.498082,
+        "longitude": 16.8729804,
+        "travel_times": {
+            "Schimetta": 86,
+            "Sopron": 171,
+            "Gloggnitz": 159
+        }
+    },
+    "Kamegg": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/kamegg",
+        "latitude": 48.61125999999999,
+        "longitude": 15.65806,
+        "travel_times": {
+            "Schimetta": 131,
+            "Sopron": 205,
+            "Gloggnitz": 194
+        }
+    },
+    "Kapellerfeld": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/kapellerfeld",
+        "latitude": 48.31566000000001,
+        "longitude": 16.49781,
+        "travel_times": {
+            "Schimetta": 60,
+            "Sopron": 149,
+            "Gloggnitz": 137
+        }
+    },
+    "Katzelsdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/katzelsdorf",
+        "latitude": 47.7918331,
+        "longitude": 16.2671658,
+        "travel_times": {
+            "Schimetta": 54,
+            "Sopron": 36,
+            "Gloggnitz": 53
+        }
+    },
+    "Kirchstetten": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/kirchstetten",
+        "latitude": 48.19284649999999,
+        "longitude": 15.8176537,
+        "travel_times": {
+            "Schimetta": 75,
+            "Sopron": 130,
+            "Gloggnitz": 119
+        }
+    },
+    "Klamm Schottwien": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/klamm-schottwien",
+        "latitude": 47.6650567,
+        "longitude": 15.8742365,
+        "travel_times": {
+            "Schimetta": 84,
+            "Sopron": 118,
+            "Gloggnitz": 30
+        }
+    },
+    "Kledering": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/kledering",
+        "latitude": 48.132042,
+        "longitude": 16.438253,
+        "travel_times": {
+            "Schimetta": 39,
+            "Sopron": 98,
+            "Gloggnitz": 94
+        }
+    },
+    "Klosterneuburg Kierling": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/klosterneuburg-kierling",
+        "latitude": 48.3098796,
+        "longitude": 16.3260409,
+        "travel_times": {
+            "Schimetta": 40,
+            "Sopron": 121,
+            "Gloggnitz": 109
+        }
+    },
+    "Klosterneuburg Weidling": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/klosterneuburg-weidling",
+        "latitude": 48.2978043,
+        "longitude": 16.3342207,
+        "travel_times": {
+            "Schimetta": 38,
+            "Sopron": 120,
+            "Gloggnitz": 108
+        }
+    },
+    "Korneuburg": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/korneuburg",
+        "latitude": 48.3429999,
+        "longitude": 16.3288669,
+        "travel_times": {
+            "Schimetta": 46,
+            "Sopron": 130,
+            "Gloggnitz": 122
+        }
+    },
+    "Kottingbrunn": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/kottingbrunn",
+        "latitude": 47.9446809,
+        "longitude": 16.2222683,
+        "travel_times": {
+            "Schimetta": 57,
+            "Sopron": 92,
+            "Gloggnitz": 75
+        }
+    },
+    "Kottingneusiedl": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/kottingneusiedl",
+        "latitude": 48.7027688,
+        "longitude": 16.4618463,
+        "travel_times": {
+            "Schimetta": 117,
+            "Sopron": 201,
+            "Gloggnitz": 207
+        }
+    },
+    "Kreisbach": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/kreisbach",
+        "latitude": 48.0945511,
+        "longitude": 15.6231658,
+        "travel_times": {
+            "Schimetta": 81,
+            "Sopron": 137,
+            "Gloggnitz": 125
+        }
+    },
+    "Krems An Der Donau": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/krems-an-der-donau",
+        "latitude": 48.4090734,
+        "longitude": 15.6048248,
+        "travel_times": {
+            "Schimetta": 84,
+            "Sopron": 138,
+            "Gloggnitz": 126
+        }
+    },
+    "Kritzendorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/kritzendorf",
+        "latitude": 48.3354865,
+        "longitude": 16.2987016,
+        "travel_times": {
+            "Schimetta": 46,
+            "Sopron": 127,
+            "Gloggnitz": 116
+        }
+    },
+    "Krummnussbaum": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/krummnussbaum",
+        "latitude": 48.208864,
+        "longitude": 15.1639272,
+        "travel_times": {
+            "Schimetta": 94,
+            "Sopron": 136,
+            "Gloggnitz": 124
+        }
+    },
+    "Kueb": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/kueb",
+        "latitude": 47.6811734,
+        "longitude": 15.8766614,
+        "travel_times": {
+            "Schimetta": 86,
+            "Sopron": 120,
+            "Gloggnitz": 16
+        }
+    },
+    "Ladendorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/ladendorf",
+        "latitude": 48.5357549,
+        "longitude": 16.508983,
+        "travel_times": {
+            "Schimetta": 82,
+            "Sopron": 171,
+            "Gloggnitz": 159
+        }
+    },
+    "Langenlebarn": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/langenlebarn",
+        "latitude": 48.33074999999999,
+        "longitude": 16.10801,
+        "travel_times": {
+            "Schimetta": 81,
+            "Sopron": 141,
+            "Gloggnitz": 149
+        }
+    },
+    "Langenlois": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/langenlois",
+        "latitude": 48.4770627,
+        "longitude": 15.6860593,
+        "travel_times": {
+            "Schimetta": 100,
+            "Sopron": 174,
+            "Gloggnitz": 162
+        }
+    },
+    "Langenzersdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/langenzersdorf",
+        "latitude": 48.3071534,
+        "longitude": 16.3557387,
+        "travel_times": {
+            "Schimetta": 44,
+            "Sopron": 129,
+            "Gloggnitz": 117
+        }
+    },
+    "Lanzendorf Rannersdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/lanzendorf-rannersdorf",
+        "latitude": 48.1130873,
+        "longitude": 16.4475296,
+        "travel_times": {
+            "Schimetta": 38,
+            "Sopron": 97,
+            "Gloggnitz": 105
+        }
+    },
+    "Lanzenkirchen": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/lanzenkirchen",
+        "latitude": 47.7506058,
+        "longitude": 16.242496,
+        "travel_times": {
+            "Schimetta": 58,
+            "Sopron": 62,
+            "Gloggnitz": 70
+        }
+    },
+    "Laxenburg Biedermannsdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/laxenburg-biedermannsdorf",
+        "latitude": 48.07954520000001,
+        "longitude": 16.3627687,
+        "travel_times": {
+            "Schimetta": 48,
+            "Sopron": 85,
+            "Gloggnitz": 86
+        }
+    },
+    "Leobendorf Burg Kreuzenstein": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/leobendorf-burg-kreuzenstein",
+        "latitude": 48.3648561,
+        "longitude": 16.3023846,
+        "travel_times": {
+            "Schimetta": 53,
+            "Sopron": 137,
+            "Gloggnitz": 125
+        }
+    },
+    "Leobersdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/leobersdorf",
+        "latitude": 47.9358566,
+        "longitude": 16.2323424,
+        "travel_times": {
+            "Schimetta": 53,
+            "Sopron": 74,
+            "Gloggnitz": 52
+        }
+    },
+    "Lilienfeld": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/lilienfeld",
+        "latitude": 48.0132499,
+        "longitude": 15.5918866,
+        "travel_times": {
+            "Schimetta": 93,
+            "Sopron": 147,
+            "Gloggnitz": 135
+        }
+    },
+    "Lilienfeld Krankenhaus": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/lilienfeld-krankenhaus",
+        "latitude": 48.1262075,
+        "longitude": 15.6128997,
+        "travel_times": {
+            "Schimetta": 81,
+            "Sopron": 135,
+            "Gloggnitz": 123
+        }
+    },
+    "Limberg Maissau": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/limberg-maissau",
+        "latitude": 48.59583,
+        "longitude": 15.86139,
+        "travel_times": {
+            "Schimetta": 97,
+            "Sopron": 181,
+            "Gloggnitz": 189
+        }
+    },
+    "Loosdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/loosdorf",
+        "latitude": 48.195056,
+        "longitude": 15.4049966,
+        "travel_times": {
+            "Schimetta": 68,
+            "Sopron": 113,
+            "Gloggnitz": 101
+        }
+    },
+    "Mannswoerth": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/mannswoerth",
+        "latitude": 48.1460787,
+        "longitude": 16.5138642,
+        "travel_times": {
+            "Schimetta": 61,
+            "Sopron": 124,
+            "Gloggnitz": 112
+        }
+    },
+    "Marchegg": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/marchegg",
+        "latitude": 48.2493941,
+        "longitude": 16.9188923,
+        "travel_times": {
+            "Schimetta": 64,
+            "Sopron": 125,
+            "Gloggnitz": 121
+        }
+    },
+    "Maria Anzbach": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/maria-anzbach",
+        "latitude": 48.1934754,
+        "longitude": 15.9304279,
+        "travel_times": {
+            "Schimetta": 67,
+            "Sopron": 147,
+            "Gloggnitz": 136
+        }
+    },
+    "Maria Ellend": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/maria-ellend",
+        "latitude": 48.11176,
+        "longitude": 16.68027,
+        "travel_times": {
+            "Schimetta": 73,
+            "Sopron": 136,
+            "Gloggnitz": 124
+        }
+    },
+    "Maria Lanzendorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/maria-lanzendorf",
+        "latitude": 48.1023517,
+        "longitude": 16.4196624,
+        "travel_times": {
+            "Schimetta": 44,
+            "Sopron": 85,
+            "Gloggnitz": 107
+        }
+    },
+    "Mauer Oehling": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/mauer-oehling",
+        "latitude": 48.096791,
+        "longitude": 14.8051366,
+        "travel_times": {
+            "Schimetta": 91,
+            "Sopron": 162,
+            "Gloggnitz": 170
+        }
+    },
+    "Melk": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/melk",
+        "latitude": 48.2216665,
+        "longitude": 15.3472027,
+        "travel_times": {
+            "Schimetta": 89,
+            "Sopron": 140,
+            "Gloggnitz": 129
+        }
+    },
+    "Michelhausen": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/michelhausen",
+        "latitude": 48.29054559999999,
+        "longitude": 15.9385309,
+        "travel_times": {
+            "Schimetta": 70,
+            "Sopron": 152,
+            "Gloggnitz": 160
+        }
+    },
+    "Mistelbach": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/mistelbach",
+        "latitude": 48.5659262,
+        "longitude": 16.5651024,
+        "travel_times": {
+            "Schimetta": 82,
+            "Sopron": 166,
+            "Gloggnitz": 171
+        }
+    },
+    "Mistelbach Stadt": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/mistelbach-stadt",
+        "latitude": 48.5710895,
+        "longitude": 16.5695315,
+        "travel_times": {
+            "Schimetta": 80,
+            "Sopron": 164,
+            "Gloggnitz": 170
+        }
+    },
+    "Moedling": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/moedling",
+        "latitude": 48.0858207,
+        "longitude": 16.2958672,
+        "travel_times": {
+            "Schimetta": 36,
+            "Sopron": 90,
+            "Gloggnitz": 69
+        }
+    },
+    "Moellersdorf Aspangbahn": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/moellersdorf-aspangbahn",
+        "latitude": 48.0298085,
+        "longitude": 16.3130448,
+        "travel_times": {
+            "Schimetta": 61,
+            "Sopron": 130,
+            "Gloggnitz": 91
+        }
+    },
+    "Moosbierbaum Heiligeneich": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/moosbierbaum-heiligeneich",
+        "latitude": 48.3061652,
+        "longitude": 15.899868,
+        "travel_times": {
+            "Schimetta": 57,
+            "Sopron": 139,
+            "Gloggnitz": 146
+        }
+    },
+    "Muckendorf Wipfing": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/muckendorf-wipfing",
+        "latitude": 48.3268459,
+        "longitude": 16.1672612,
+        "travel_times": {
+            "Schimetta": 74,
+            "Sopron": 144,
+            "Gloggnitz": 143
+        }
+    },
+    "Muehling": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/muehling",
+        "latitude": 48.10335,
+        "longitude": 15.13569,
+        "travel_times": {
+            "Schimetta": 133,
+            "Sopron": 175,
+            "Gloggnitz": 163
+        }
+    },
+    "Muehling Plaika": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/muehling-plaika",
+        "latitude": 48.10335,
+        "longitude": 15.13569,
+        "travel_times": {
+            "Schimetta": 133,
+            "Sopron": 175,
+            "Gloggnitz": 163
+        }
+    },
+    "Muenchendorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/muenchendorf",
+        "latitude": 48.0288572,
+        "longitude": 16.3851801,
+        "travel_times": {
+            "Schimetta": 40,
+            "Sopron": 67,
+            "Gloggnitz": 69
+        }
+    },
+    "Neubau Kreuzstetten": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/neubau-kreuzstetten",
+        "latitude": 48.4975178,
+        "longitude": 16.5013178,
+        "travel_times": {
+            "Schimetta": 82,
+            "Sopron": 171,
+            "Gloggnitz": 159
+        }
+    },
+    "Neulengbach": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/neulengbach",
+        "latitude": 48.1994436,
+        "longitude": 15.9088281,
+        "travel_times": {
+            "Schimetta": 61,
+            "Sopron": 135,
+            "Gloggnitz": 123
+        }
+    },
+    "Neulengbach Stadt": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/neulengbach-stadt",
+        "latitude": 48.1994436,
+        "longitude": 15.9088281,
+        "travel_times": {
+            "Schimetta": 61,
+            "Sopron": 135,
+            "Gloggnitz": 123
+        }
+    },
+    "Niederkreuzstetten": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/niederkreuzstetten",
+        "latitude": 48.497346,
+        "longitude": 16.5069677,
+        "travel_times": {
+            "Schimetta": 88,
+            "Sopron": 177,
+            "Gloggnitz": 165
+        }
+    },
+    "Obereggendorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/obereggendorf",
+        "latitude": 47.8113091,
+        "longitude": 16.2346776,
+        "travel_times": {
+            "Schimetta": 43,
+            "Sopron": 40,
+            "Gloggnitz": 20
+        }
+    },
+    "Obersdorf Haltestelle": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/obersdorf-haltestelle",
+        "latitude": 48.3623699,
+        "longitude": 16.5165612,
+        "travel_times": {
+            "Schimetta": 49,
+            "Sopron": 133,
+            "Gloggnitz": 129
+        }
+    },
+    "Oberweiden": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/oberweiden",
+        "latitude": 48.3061278,
+        "longitude": 16.833569,
+        "travel_times": {
+            "Schimetta": 73,
+            "Sopron": 137,
+            "Gloggnitz": 125
+        }
+    },
+    "Oed": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/oed",
+        "latitude": 47.8788444,
+        "longitude": 16.0262695,
+        "travel_times": {
+            "Schimetta": 89,
+            "Sopron": 88,
+            "Gloggnitz": 96
+        }
+    },
+    "Ollersbach": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/ollersbach",
+        "latitude": 48.1866767,
+        "longitude": 15.8448948,
+        "travel_times": {
+            "Schimetta": 71,
+            "Sopron": 132,
+            "Gloggnitz": 120
+        }
+    },
+    "Ortmann": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/ortmann",
+        "latitude": 47.8852232,
+        "longitude": 15.990052,
+        "travel_times": {
+            "Schimetta": 114,
+            "Sopron": 113,
+            "Gloggnitz": 121
+        }
+    },
+    "Paasdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/paasdorf",
+        "latitude": 48.5456255,
+        "longitude": 16.5380043,
+        "travel_times": {
+            "Schimetta": 90,
+            "Sopron": 179,
+            "Gloggnitz": 167
+        }
+    },
+    "Payerbach Reichenau": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/payerbach-reichenau",
+        "latitude": 47.69605019999999,
+        "longitude": 15.8630146,
+        "travel_times": {
+            "Schimetta": 68,
+            "Sopron": 82,
+            "Gloggnitz": 7
+        }
+    },
+    "Perchtoldsdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/perchtoldsdorf",
+        "latitude": 48.1172342,
+        "longitude": 16.2700224,
+        "travel_times": {
+            "Schimetta": 49,
+            "Sopron": 108,
+            "Gloggnitz": 86
+        }
+    },
+    "Pernitz Muggendorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/pernitz-muggendorf",
+        "latitude": 47.8960573,
+        "longitude": 15.9581209,
+        "travel_times": {
+            "Schimetta": 99,
+            "Sopron": 98,
+            "Gloggnitz": 106
+        }
+    },
+    "Pernitz Raimundviertel": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/pernitz-raimundviertel",
+        "latitude": 47.8974712,
+        "longitude": 15.9613401,
+        "travel_times": {
+            "Schimetta": 105,
+            "Sopron": 104,
+            "Gloggnitz": 112
+        }
+    },
+    "Pernitz Wipfelhofstrasse": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/pernitz-wipfelhofstrasse",
+        "latitude": 47.8948192,
+        "longitude": 15.9681428,
+        "travel_times": {
+            "Schimetta": 99,
+            "Sopron": 98,
+            "Gloggnitz": 106
+        }
+    },
+    "Petersbaumgarten": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/petersbaumgarten",
+        "latitude": 47.6423692,
+        "longitude": 16.1297314,
+        "travel_times": {
+            "Schimetta": 99,
+            "Sopron": 103,
+            "Gloggnitz": 89
+        }
+    },
+    "Petronell Carnuntum": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/petronell-carnuntum",
+        "latitude": 48.1129002,
+        "longitude": 16.8650784,
+        "travel_times": {
+            "Schimetta": 87,
+            "Sopron": 150,
+            "Gloggnitz": 138
+        }
+    },
+    "Petzenkirchen": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/petzenkirchen",
+        "latitude": 48.1462451,
+        "longitude": 15.1554589,
+        "travel_times": {
+            "Schimetta": 110,
+            "Sopron": 152,
+            "Gloggnitz": 140
+        }
+    },
+    "Pfaffstaetten": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/pfaffstaetten",
+        "latitude": 48.0184907,
+        "longitude": 16.2589392,
+        "travel_times": {
+            "Schimetta": 52,
+            "Sopron": 90,
+            "Gloggnitz": 54
+        }
+    },
+    "Pfennigbach": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/pfennigbach",
+        "latitude": 47.7950562,
+        "longitude": 15.9218094,
+        "travel_times": {
+            "Schimetta": 97,
+            "Sopron": 101,
+            "Gloggnitz": 109
+        }
+    },
+    "Piesting": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/piesting",
+        "latitude": 47.8747199,
+        "longitude": 16.1252323,
+        "travel_times": {
+            "Schimetta": 73,
+            "Sopron": 72,
+            "Gloggnitz": 80
+        }
+    },
+    "Piesting Harzwerk": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/piesting-harzwerk",
+        "latitude": 47.8745853,
+        "longitude": 16.1355575,
+        "travel_times": {
+            "Schimetta": 81,
+            "Sopron": 80,
+            "Gloggnitz": 88
+        }
+    },
+    "Pitten": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/pitten",
+        "latitude": 47.758826,
+        "longitude": 16.1483827,
+        "travel_times": {
+            "Schimetta": 62,
+            "Sopron": 66,
+            "Gloggnitz": 21
+        }
+    },
+    "Plank Am Kamp": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/plank-am-kamp",
+        "latitude": 48.5579597,
+        "longitude": 15.673474,
+        "travel_times": {
+            "Schimetta": 111,
+            "Sopron": 185,
+            "Gloggnitz": 173
+        }
+    },
+    "Platt": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/platt",
+        "latitude": 48.66993,
+        "longitude": 15.9606,
+        "travel_times": {
+            "Schimetta": 96,
+            "Sopron": 180,
+            "Gloggnitz": 188
+        }
+    },
+    "Poechlarn": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/poechlarn",
+        "latitude": 48.208337,
+        "longitude": 15.2163277,
+        "travel_times": {
+            "Schimetta": 78,
+            "Sopron": 123,
+            "Gloggnitz": 111
+        }
+    },
+    "Pottenbrunn": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/pottenbrunn",
+        "latitude": 48.24131,
+        "longitude": 15.70159,
+        "travel_times": {
+            "Schimetta": 105,
+            "Sopron": 142,
+            "Gloggnitz": 131
+        }
+    },
+    "Pottendorf Landegg": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/pottendorf-landegg",
+        "latitude": 47.9053538,
+        "longitude": 16.3952583,
+        "travel_times": {
+            "Schimetta": 76,
+            "Sopron": 84,
+            "Gloggnitz": 62
+        }
+    },
+    "Pottschach": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/pottschach",
+        "latitude": 47.7021318,
+        "longitude": 16.011635,
+        "travel_times": {
+            "Schimetta": 77,
+            "Sopron": 81,
+            "Gloggnitz": 15
+        }
+    },
+    "Pressbaum": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/pressbaum",
+        "latitude": 48.1685271,
+        "longitude": 16.0608355,
+        "travel_times": {
+            "Schimetta": 93,
+            "Sopron": 161,
+            "Gloggnitz": 149
+        }
+    },
+    "Prinzersdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/prinzersdorf",
+        "latitude": 48.2034338,
+        "longitude": 15.5270165,
+        "travel_times": {
+            "Schimetta": 59,
+            "Sopron": 106,
+            "Gloggnitz": 94
+        }
+    },
+    "Puchberg Am Schneeberg": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/puchberg-am-schneeberg",
+        "latitude": 47.7903405,
+        "longitude": 15.9108648,
+        "travel_times": {
+            "Schimetta": 97,
+            "Sopron": 101,
+            "Gloggnitz": 109
+        }
+    },
+    "Puerbach Schrems": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/puerbach-schrems",
+        "latitude": 48.7633034,
+        "longitude": 15.0847018,
+        "travel_times": {
+            "Schimetta": 152,
+            "Sopron": 222,
+            "Gloggnitz": 244
+        }
+    },
+    "Purgstall": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/purgstall",
+        "latitude": 48.05898730000001,
+        "longitude": 15.1277722,
+        "travel_times": {
+            "Schimetta": 143,
+            "Sopron": 185,
+            "Gloggnitz": 173
+        }
+    },
+    "Purkersdorf Sanatorium": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/purkersdorf-sanatorium",
+        "latitude": 48.2064685,
+        "longitude": 16.2014479,
+        "travel_times": {
+            "Schimetta": 31,
+            "Sopron": 111,
+            "Gloggnitz": 99
+        }
+    },
+    "Purkersdorf Zentrum": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/purkersdorf-zentrum",
+        "latitude": 48.2062216,
+        "longitude": 16.1756239,
+        "travel_times": {
+            "Schimetta": 35,
+            "Sopron": 104,
+            "Gloggnitz": 92
+        }
+    },
+    "Raasdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/raasdorf",
+        "latitude": 48.2388021,
+        "longitude": 16.5817739,
+        "travel_times": {
+            "Schimetta": 68,
+            "Sopron": 127,
+            "Gloggnitz": 115
+        }
+    },
+    "Rabensburg": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/rabensburg",
+        "latitude": 48.6522124,
+        "longitude": 16.8963646,
+        "travel_times": {
+            "Schimetta": 95,
+            "Sopron": 177,
+            "Gloggnitz": 168
+        }
+    },
+    "Rainfeld Klein Zell": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/rainfeld-klein-zell",
+        "latitude": 48.0482765,
+        "longitude": 15.7106875,
+        "travel_times": {
+            "Schimetta": 94,
+            "Sopron": 148,
+            "Gloggnitz": 136
+        }
+    },
+    "Ramingdorf Haidershofen": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/ramingdorf-haidershofen",
+        "latitude": 48.06791310000001,
+        "longitude": 14.4594094,
+        "travel_times": {
+            "Schimetta": 127,
+            "Sopron": 186,
+            "Gloggnitz": 194
+        }
+    },
+    "Regelsbrunn": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/regelsbrunn",
+        "latitude": 48.10902,
+        "longitude": 16.77969,
+        "travel_times": {
+            "Schimetta": 72,
+            "Sopron": 134,
+            "Gloggnitz": 123
+        }
+    },
+    "Rekawinkel": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/rekawinkel",
+        "latitude": 48.18026,
+        "longitude": 16.02833,
+        "travel_times": {
+            "Schimetta": 54,
+            "Sopron": 134,
+            "Gloggnitz": 122
+        }
+    },
+    "Retz": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/retz",
+        "latitude": 48.7530146,
+        "longitude": 15.955992,
+        "travel_times": {
+            "Schimetta": 98,
+            "Sopron": 182,
+            "Gloggnitz": 190
+        }
+    },
+    "Rohrendorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/rohrendorf",
+        "latitude": 48.4194981,
+        "longitude": 15.6584801,
+        "travel_times": {
+            "Schimetta": 100,
+            "Sopron": 155,
+            "Gloggnitz": 143
+        }
+    },
+    "Rosenau": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/rosenau",
+        "latitude": 47.9871835,
+        "longitude": 14.7411916,
+        "travel_times": {
+            "Schimetta": 105,
+            "Sopron": 176,
+            "Gloggnitz": 184
+        }
+    },
+    "Rosenburg": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/rosenburg",
+        "latitude": 48.628545,
+        "longitude": 15.6422333,
+        "travel_times": {
+            "Schimetta": 132,
+            "Sopron": 206,
+            "Gloggnitz": 194
+        }
+    },
+    "Rothengrub": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/rothengrub",
+        "latitude": 47.7888312,
+        "longitude": 16.0518872,
+        "travel_times": {
+            "Schimetta": 77,
+            "Sopron": 81,
+            "Gloggnitz": 89
+        }
+    },
+    "Saffen": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/saffen",
+        "latitude": 48.02386,
+        "longitude": 15.15236,
+        "travel_times": {
+            "Schimetta": 149,
+            "Sopron": 191,
+            "Gloggnitz": 179
+        }
+    },
+    "Sarasdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/sarasdorf",
+        "latitude": 48.0224135,
+        "longitude": 16.677814,
+        "travel_times": {
+            "Schimetta": 73,
+            "Sopron": 122,
+            "Gloggnitz": 110
+        }
+    },
+    "Saeusenstein": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/saeusenstein",
+        "latitude": 48.19157999999999,
+        "longitude": 15.1146,
+        "travel_times": {
+            "Schimetta": 126,
+            "Sopron": 165,
+            "Gloggnitz": 154
+        }
+    },
+    "Sautern Schiltern": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/sautern-schiltern",
+        "latitude": 47.707427,
+        "longitude": 16.156261,
+        "travel_times": {
+            "Schimetta": 72,
+            "Sopron": 76,
+            "Gloggnitz": 84
+        }
+    },
+    "Schauboden": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/schauboden",
+        "latitude": 48.08072,
+        "longitude": 15.1239,
+        "travel_times": {
+            "Schimetta": 150,
+            "Sopron": 192,
+            "Gloggnitz": 180
+        }
+    },
+    "Scheibbs": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/scheibbs",
+        "latitude": 48.0029559,
+        "longitude": 15.1673952,
+        "travel_times": {
+            "Schimetta": 153,
+            "Sopron": 195,
+            "Gloggnitz": 183
+        }
+    },
+    "Scheiblingkirchen Warth": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/scheiblingkirchen-warth",
+        "latitude": 47.6621382,
+        "longitude": 16.1312346,
+        "travel_times": {
+            "Schimetta": 81,
+            "Sopron": 85,
+            "Gloggnitz": 78
+        }
+    },
+    "Schleinbach": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/schleinbach",
+        "latitude": 48.4220656,
+        "longitude": 16.4903175,
+        "travel_times": {
+            "Schimetta": 74,
+            "Sopron": 163,
+            "Gloggnitz": 151
+        }
+    },
+    "Schloeglmuehl": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/schloeglmuehl",
+        "latitude": 47.68187349999999,
+        "longitude": 15.9128898,
+        "travel_times": {
+            "Schimetta": 75,
+            "Sopron": 79,
+            "Gloggnitz": 5
+        }
+    },
+    "Schoenberg Am Kamp": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/schoenberg-am-kamp",
+        "latitude": 48.5156377,
+        "longitude": 15.6964197,
+        "travel_times": {
+            "Schimetta": 99,
+            "Sopron": 173,
+            "Gloggnitz": 161
+        }
+    },
+    "Schoenfeld Lassee": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/schoenfeld-lassee",
+        "latitude": 48.2509071,
+        "longitude": 16.8073654,
+        "travel_times": {
+            "Schimetta": 59,
+            "Sopron": 120,
+            "Gloggnitz": 113
+        }
+    },
+    "Schwarzenau": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/schwarzenau",
+        "latitude": 48.7714294,
+        "longitude": 15.0820459,
+        "travel_times": {
+            "Schimetta": 170,
+            "Sopron": 240,
+            "Gloggnitz": 262
+        }
+    },
+    "Schwechat": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/schwechat",
+        "latitude": 48.14091579999999,
+        "longitude": 16.4970653,
+        "travel_times": {
+            "Schimetta": 78,
+            "Sopron": 141,
+            "Gloggnitz": 129
+        }
+    },
+    "Seebenstein": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/seebenstein",
+        "latitude": 47.7032363,
+        "longitude": 16.1428831,
+        "travel_times": {
+            "Schimetta": 74,
+            "Sopron": 78,
+            "Gloggnitz": 86
+        }
+    },
+    "Semmering": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/semmering",
+        "latitude": 47.6396092,
+        "longitude": 15.8305278,
+        "travel_times": {
+            "Schimetta": 86,
+            "Sopron": 90,
+            "Gloggnitz": 35
+        }
+    },
+    "Seyring": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/seyring",
+        "latitude": 48.3308183,
+        "longitude": 16.4965606,
+        "travel_times": {
+            "Schimetta": 55,
+            "Sopron": 143,
+            "Gloggnitz": 132
+        }
+    },
+    "Siebenbrunn Leopoldsdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/siebenbrunn-leopoldsdorf",
+        "latitude": 48.245573,
+        "longitude": 16.703843,
+        "travel_times": {
+            "Schimetta": 56,
+            "Sopron": 117,
+            "Gloggnitz": 108
+        }
+    },
+    "Siebenhirten": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/siebenhirten",
+        "latitude": 48.6100737,
+        "longitude": 16.5300042,
+        "travel_times": {
+            "Schimetta": 85,
+            "Sopron": 169,
+            "Gloggnitz": 176
+        }
+    },
+    "Sierndorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/sierndorf",
+        "latitude": 48.42899329999999,
+        "longitude": 16.1747035,
+        "travel_times": {
+            "Schimetta": 74,
+            "Sopron": 158,
+            "Gloggnitz": 147
+        }
+    },
+    "Sigmundsherberg": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/sigmundsherberg",
+        "latitude": 48.6860022,
+        "longitude": 15.7447919,
+        "travel_times": {
+            "Schimetta": 95,
+            "Sopron": 154,
+            "Gloggnitz": 191
+        }
+    },
+    "Silberwald": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/silberwald",
+        "latitude": 48.3162908,
+        "longitude": 16.6361849,
+        "travel_times": {
+            "Schimetta": 63,
+            "Sopron": 127,
+            "Gloggnitz": 115
+        }
+    },
+    "Sitzenberg Reidling": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/sitzenberg-reidling",
+        "latitude": 48.3320137,
+        "longitude": 15.8183137,
+        "travel_times": {
+            "Schimetta": 70,
+            "Sopron": 152,
+            "Gloggnitz": 143
+        }
+    },
+    "Sollenau": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/sollenau",
+        "latitude": 47.8975945,
+        "longitude": 16.2452592,
+        "travel_times": {
+            "Schimetta": 51,
+            "Sopron": 73,
+            "Gloggnitz": 64
+        }
+    },
+    "Soelling": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/soelling",
+        "latitude": 48.04066,
+        "longitude": 15.13988,
+        "travel_times": {
+            "Schimetta": 145,
+            "Sopron": 187,
+            "Gloggnitz": 175
+        }
+    },
+    "Sonntagberg": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/sonntagberg",
+        "latitude": 47.9952415,
+        "longitude": 14.7385869,
+        "travel_times": {
+            "Schimetta": 96,
+            "Sopron": 167,
+            "Gloggnitz": 175
+        }
+    },
+    "Spillern": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/spillern",
+        "latitude": 48.3760738,
+        "longitude": 16.256608,
+        "travel_times": {
+            "Schimetta": 55,
+            "Sopron": 139,
+            "Gloggnitz": 127
+        }
+    },
+    "Staatz": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/staatz",
+        "latitude": 48.6774521,
+        "longitude": 16.4878248,
+        "travel_times": {
+            "Schimetta": 127,
+            "Sopron": 211,
+            "Gloggnitz": 217
+        }
+    },
+    "Stadt Haag": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/stadt-haag",
+        "latitude": 48.1140568,
+        "longitude": 14.5679032,
+        "travel_times": {
+            "Schimetta": 102,
+            "Sopron": 172,
+            "Gloggnitz": 180
+        }
+    },
+    "Statzendorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/statzendorf",
+        "latitude": 48.3089719,
+        "longitude": 15.6324517,
+        "travel_times": {
+            "Schimetta": 67,
+            "Sopron": 121,
+            "Gloggnitz": 109
+        }
+    },
+    "Stiefern": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/stiefern",
+        "latitude": 48.53295,
+        "longitude": 15.68871,
+        "travel_times": {
+            "Schimetta": 109,
+            "Sopron": 183,
+            "Gloggnitz": 171
+        }
+    },
+    "Stillfried": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/stillfried",
+        "latitude": 48.41775029999999,
+        "longitude": 16.8380842,
+        "travel_times": {
+            "Schimetta": 113,
+            "Sopron": 198,
+            "Gloggnitz": 186
+        }
+    },
+    "Stockerau": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/stockerau",
+        "latitude": 48.3830813,
+        "longitude": 16.2112313,
+        "travel_times": {
+            "Schimetta": 61,
+            "Sopron": 138,
+            "Gloggnitz": 133
+        }
+    },
+    "Strasshof Haltestelle": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/strasshof-haltestelle",
+        "latitude": 48.3162908,
+        "longitude": 16.6361849,
+        "travel_times": {
+            "Schimetta": 63,
+            "Sopron": 127,
+            "Gloggnitz": 115
+        }
+    },
+    "Tallesbrunn": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/tallesbrunn",
+        "latitude": 48.3631931,
+        "longitude": 16.7875826,
+        "travel_times": {
+            "Schimetta": 67,
+            "Sopron": 152,
+            "Gloggnitz": 140
+        }
+    },
+    "Tattendorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/tattendorf",
+        "latitude": 47.9557059,
+        "longitude": 16.3058801,
+        "travel_times": {
+            "Schimetta": 81,
+            "Sopron": 124,
+            "Gloggnitz": 72
+        }
+    },
+    "Teesdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/teesdorf",
+        "latitude": 47.8968265,
+        "longitude": 16.2489691,
+        "travel_times": {
+            "Schimetta": 56,
+            "Sopron": 78,
+            "Gloggnitz": 69
+        }
+    },
+    "Ternitz": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/ternitz",
+        "latitude": 47.71330469999999,
+        "longitude": 16.0314764,
+        "travel_times": {
+            "Schimetta": 65,
+            "Sopron": 69,
+            "Gloggnitz": 8
+        }
+    },
+    "Theresienfeld": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/theresienfeld",
+        "latitude": 47.8606984,
+        "longitude": 16.2444123,
+        "travel_times": {
+            "Schimetta": 55,
+            "Sopron": 66,
+            "Gloggnitz": 74
+        }
+    },
+    "Traisen": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/traisen",
+        "latitude": 48.05667020000001,
+        "longitude": 15.6122912,
+        "travel_times": {
+            "Schimetta": 72,
+            "Sopron": 126,
+            "Gloggnitz": 114
+        }
+    },
+    "Traisen Markt": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/traisen-markt",
+        "latitude": 48.045441,
+        "longitude": 15.617773,
+        "travel_times": {
+            "Schimetta": 92,
+            "Sopron": 146,
+            "Gloggnitz": 134
+        }
+    },
+    "Traiskirchen Aspangbahn": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/traiskirchen-aspangbahn",
+        "latitude": 48.0213914,
+        "longitude": 16.3041881,
+        "travel_times": {
+            "Schimetta": 61,
+            "Sopron": 129,
+            "Gloggnitz": 90
+        }
+    },
+    "Traismauer": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/traismauer",
+        "latitude": 48.3480915,
+        "longitude": 15.7449342,
+        "travel_times": {
+            "Schimetta": 71,
+            "Sopron": 138,
+            "Gloggnitz": 126
+        }
+    },
+    "Trasdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/trasdorf",
+        "latitude": 48.3141655,
+        "longitude": 15.8834904,
+        "travel_times": {
+            "Schimetta": 66,
+            "Sopron": 148,
+            "Gloggnitz": 148
+        }
+    },
+    "Trumau": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/trumau",
+        "latitude": 47.9940196,
+        "longitude": 16.3339888,
+        "travel_times": {
+            "Schimetta": 78,
+            "Sopron": 134,
+            "Gloggnitz": 82
+        }
+    },
+    "Tulln An Der Donau": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/tulln-an-der-donau",
+        "latitude": 48.3273199,
+        "longitude": 16.0650094,
+        "travel_times": {
+            "Schimetta": 53,
+            "Sopron": 112,
+            "Gloggnitz": 120
+        }
+    },
+    "Tullnerbach Pressbaum": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/tullnerbach-pressbaum",
+        "latitude": 48.18592810000001,
+        "longitude": 16.0931355,
+        "travel_times": {
+            "Schimetta": 42,
+            "Sopron": 109,
+            "Gloggnitz": 97
+        }
+    },
+    "Tullnerfeld": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/tullnerfeld",
+        "latitude": 48.29484370000001,
+        "longitude": 15.9963516,
+        "travel_times": {
+            "Schimetta": 34,
+            "Sopron": 93,
+            "Gloggnitz": 101
+        }
+    },
+    "Tulln Stadt": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/tulln-stadt",
+        "latitude": 48.3314949,
+        "longitude": 16.060737,
+        "travel_times": {
+            "Schimetta": 61,
+            "Sopron": 117,
+            "Gloggnitz": 126
+        }
+    },
+    "Ulmerfeld Hausmening": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/ulmerfeld-hausmening",
+        "latitude": 48.07480169999999,
+        "longitude": 14.8158838,
+        "travel_times": {
+            "Schimetta": 79,
+            "Sopron": 150,
+            "Gloggnitz": 158
+        }
+    },
+    "Ulrichskirchen": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/ulrichskirchen",
+        "latitude": 48.4001658,
+        "longitude": 16.4906079,
+        "travel_times": {
+            "Schimetta": 64,
+            "Sopron": 153,
+            "Gloggnitz": 141
+        }
+    },
+    "Unter Hoeflein": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/unter-hoeflein",
+        "latitude": 47.79079549999999,
+        "longitude": 16.0323592,
+        "travel_times": {
+            "Schimetta": 79,
+            "Sopron": 83,
+            "Gloggnitz": 91
+        }
+    },
+    "Unterkritzendorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/unterkritzendorf",
+        "latitude": 48.3241186,
+        "longitude": 16.3091107,
+        "travel_times": {
+            "Schimetta": 42,
+            "Sopron": 124,
+            "Gloggnitz": 112
+        }
+    },
+    "Unter Purkersdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/unter-purkersdorf",
+        "latitude": 48.2074023,
+        "longitude": 16.1887333,
+        "travel_times": {
+            "Schimetta": 34,
+            "Sopron": 114,
+            "Gloggnitz": 102
+        }
+    },
+    "Unter Radlberg": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/unter-radlberg",
+        "latitude": 48.25651,
+        "longitude": 15.67925,
+        "travel_times": {
+            "Schimetta": 71,
+            "Sopron": 131,
+            "Gloggnitz": 120
+        }
+    },
+    "Unterretzbach": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/unterretzbach",
+        "latitude": 48.76702,
+        "longitude": 16.00371,
+        "travel_times": {
+            "Schimetta": 110,
+            "Sopron": 194,
+            "Gloggnitz": 202
+        }
+    },
+    "Untersiebenbrunn": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/untersiebenbrunn",
+        "latitude": 48.2506079,
+        "longitude": 16.74742,
+        "travel_times": {
+            "Schimetta": 66,
+            "Sopron": 124,
+            "Gloggnitz": 113
+        }
+    },
+    "Unter Tullnerbach": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/unter-tullnerbach",
+        "latitude": 48.1807404,
+        "longitude": 16.1001414,
+        "travel_times": {
+            "Schimetta": 49,
+            "Sopron": 125,
+            "Gloggnitz": 113
+        }
+    },
+    "Urschendorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/urschendorf",
+        "latitude": 47.7970761,
+        "longitude": 16.0915255,
+        "travel_times": {
+            "Schimetta": 71,
+            "Sopron": 75,
+            "Gloggnitz": 83
+        }
+    },
+    "Viehofen": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/viehofen",
+        "latitude": 48.23112099999999,
+        "longitude": 15.6531977,
+        "travel_times": {
+            "Schimetta": 70,
+            "Sopron": 131,
+            "Gloggnitz": 119
+        }
+    },
+    "Vitis": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/vitis",
+        "latitude": 48.7533952,
+        "longitude": 15.1739364,
+        "travel_times": {
+            "Schimetta": 139,
+            "Sopron": 202,
+            "Gloggnitz": 242
+        }
+    },
+    "Wagram Grafenegg": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/wagram-grafenegg",
+        "latitude": 48.4346217,
+        "longitude": 15.7750628,
+        "travel_times": {
+            "Schimetta": 78,
+            "Sopron": 152,
+            "Gloggnitz": 140
+        }
+    },
+    "Waldegg": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/waldegg",
+        "latitude": 47.8697994,
+        "longitude": 16.0616175,
+        "travel_times": {
+            "Schimetta": 87,
+            "Sopron": 86,
+            "Gloggnitz": 94
+        }
+    },
+    "Wampersdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/wampersdorf",
+        "latitude": 47.9379994,
+        "longitude": 16.4190154,
+        "travel_times": {
+            "Schimetta": 72,
+            "Sopron": 86,
+            "Gloggnitz": 65
+        }
+    },
+    "Weikendorf Doerfles": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/weikendorf-doerfles",
+        "latitude": 48.3410677,
+        "longitude": 16.7625121,
+        "travel_times": {
+            "Schimetta": 80,
+            "Sopron": 165,
+            "Gloggnitz": 153
+        }
+    },
+    "Weissenbach Neuhaus": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/weissenbach-neuhaus",
+        "latitude": 47.9838769,
+        "longitude": 16.0457246,
+        "travel_times": {
+            "Schimetta": 92,
+            "Sopron": 126,
+            "Gloggnitz": 134
+        }
+    },
+    "Wiener Neustadt Anemonensee": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/wiener-neustadt-anemonensee",
+        "latitude": 47.8125031,
+        "longitude": 16.2065723,
+        "travel_times": {
+            "Schimetta": 57,
+            "Sopron": 61,
+            "Gloggnitz": 50
+        }
+    },
+    "Wiener Neustadt Civitas Nova": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/wiener-neustadt-civitas-nova",
+        "latitude": 47.8334756,
+        "longitude": 16.2559307,
+        "travel_times": {
+            "Schimetta": 53,
+            "Sopron": 57,
+            "Gloggnitz": 65
+        }
+    },
+    "Wiener Neustadt Hauptbahnhof": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/wiener-neustadt-hauptbahnhof",
+        "latitude": 47.8112118,
+        "longitude": 16.234319,
+        "travel_times": {
+            "Schimetta": 44,
+            "Sopron": 40,
+            "Gloggnitz": 21
+        }
+    },
+    "Wiener Neustadt Nord": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/wiener-neustadt-nord",
+        "latitude": 47.8345492,
+        "longitude": 16.240011,
+        "travel_times": {
+            "Schimetta": 60,
+            "Sopron": 65,
+            "Gloggnitz": 46
+        }
+    },
+    "Wiesenfeld Schwarzenbach": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/wiesenfeld-schwarzenbach",
+        "latitude": 48.0630922,
+        "longitude": 15.6542659,
+        "travel_times": {
+            "Schimetta": 111,
+            "Sopron": 165,
+            "Gloggnitz": 153
+        }
+    },
+    "Wildungsmauer": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/wildungsmauer",
+        "latitude": 48.0938019,
+        "longitude": 16.7984258,
+        "travel_times": {
+            "Schimetta": 94,
+            "Sopron": 157,
+            "Gloggnitz": 145
+        }
+    },
+    "Wilfleinsdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/wilfleinsdorf",
+        "latitude": 48.011632,
+        "longitude": 16.730182,
+        "travel_times": {
+            "Schimetta": 101,
+            "Sopron": 150,
+            "Gloggnitz": 138
+        }
+    },
+    "Willendorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/willendorf",
+        "latitude": 47.7890449,
+        "longitude": 16.0603882,
+        "travel_times": {
+            "Schimetta": 72,
+            "Sopron": 76,
+            "Gloggnitz": 84
+        }
+    },
+    "Winzendorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/winzendorf",
+        "latitude": 47.8110493,
+        "longitude": 16.1117448,
+        "travel_times": {
+            "Schimetta": 66,
+            "Sopron": 70,
+            "Gloggnitz": 52
+        }
+    },
+    "Wittmannsdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/wittmannsdorf",
+        "latitude": 47.920433,
+        "longitude": 16.2198158,
+        "travel_times": {
+            "Schimetta": 61,
+            "Sopron": 95,
+            "Gloggnitz": 103
+        }
+    },
+    "Wolfsbergkogel": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/wolfsbergkogel",
+        "latitude": 47.63561139999999,
+        "longitude": 15.8297921,
+        "travel_times": {
+            "Schimetta": 108,
+            "Sopron": 111,
+            "Gloggnitz": 63
+        }
+    },
+    "Wolfsthal": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/wolfsthal",
+        "latitude": 48.1376889,
+        "longitude": 17.0038259,
+        "travel_times": {
+            "Schimetta": 106,
+            "Sopron": 168,
+            "Gloggnitz": 157
+        }
+    },
+    "Wolkersdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/wolkersdorf",
+        "latitude": 48.37902330000001,
+        "longitude": 16.5126386,
+        "travel_times": {
+            "Schimetta": 53,
+            "Sopron": 136,
+            "Gloggnitz": 133
+        }
+    },
+    "Woellersdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/woellersdorf",
+        "latitude": 47.8614083,
+        "longitude": 16.1787508,
+        "travel_times": {
+            "Schimetta": 66,
+            "Sopron": 65,
+            "Gloggnitz": 73
+        }
+    },
+    "Woellersdorf Marchgraben": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/woellersdorf-marchgraben",
+        "latitude": 47.86542,
+        "longitude": 16.16878,
+        "travel_times": {
+            "Schimetta": 72,
+            "Sopron": 70,
+            "Gloggnitz": 79
+        }
+    },
+    "Wopfing": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/wopfing",
+        "latitude": 47.87479,
+        "longitude": 16.07874,
+        "travel_times": {
+            "Schimetta": 95,
+            "Sopron": 93,
+            "Gloggnitz": 102
+        }
+    },
+    "Zeiselmauer Koenigstetten": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/zeiselmauer-koenigstetten",
+        "latitude": 48.3143878,
+        "longitude": 16.1785094,
+        "travel_times": {
+            "Schimetta": 79,
+            "Sopron": 149,
+            "Gloggnitz": 157
+        }
+    },
+    "Ziersdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/ziersdorf",
+        "latitude": 48.5288566,
+        "longitude": 15.9209023,
+        "travel_times": {
+            "Schimetta": 89,
+            "Sopron": 173,
+            "Gloggnitz": 178
+        }
+    },
+    "Zoebing": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/zoebing",
+        "latitude": 48.49108,
+        "longitude": 15.69302,
+        "travel_times": {
+            "Schimetta": 98,
+            "Sopron": 172,
+            "Gloggnitz": 161
+        }
+    },
+    "Standrae Woerdern": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/standrae-woerdern",
+        "latitude": 48.32464909999999,
+        "longitude": 16.2110471,
+        "travel_times": {
+            "Schimetta": 68,
+            "Sopron": 149,
+            "Gloggnitz": 138
+        }
+    },
+    "Stgeorgen Am Steinfelde": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/stgeorgen-am-steinfelde",
+        "latitude": 48.1382837,
+        "longitude": 15.6146937,
+        "travel_times": {
+            "Schimetta": 63,
+            "Sopron": 117,
+            "Gloggnitz": 105
+        }
+    },
+    "Stjohann Weistrach": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/stjohann-weistrach",
+        "latitude": 48.07429,
+        "longitude": 14.6157,
+        "travel_times": {
+            "Schimetta": 108,
+            "Sopron": 179,
+            "Gloggnitz": 194
+        }
+    },
+    "Stpeter Seitenstetten": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/stpeter-seitenstetten",
+        "latitude": 48.055502,
+        "longitude": 14.6412112,
+        "travel_times": {
+            "Schimetta": 117,
+            "Sopron": 188,
+            "Gloggnitz": 196
+        }
+    },
+    "Stpoelten Kaiserwald": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/stpoelten-kaiserwald",
+        "latitude": 48.1992853,
+        "longitude": 15.6140006,
+        "travel_times": {
+            "Schimetta": 52,
+            "Sopron": 106,
+            "Gloggnitz": 94
+        }
+    },
+    "Stpoelten Porschestrasse": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/stpoelten-porschestrasse",
+        "latitude": 48.2054335,
+        "longitude": 15.6183427,
+        "travel_times": {
+            "Schimetta": 49,
+            "Sopron": 103,
+            "Gloggnitz": 91
+        }
+    },
+    "Stpoelten Traisenpark": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/stpoelten-traisenpark",
+        "latitude": 48.2054335,
+        "longitude": 15.6183427,
+        "travel_times": {
+            "Schimetta": 49,
+            "Sopron": 103,
+            "Gloggnitz": 91
+        }
+    },
+    "Boehlerwerk Adybbs": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/boehlerwerk-adybbs",
+        "latitude": 47.9832123,
+        "longitude": 14.7539989,
+        "travel_times": {
+            "Schimetta": 94,
+            "Sopron": 165,
+            "Gloggnitz": 173
+        }
+    },
+    "Brunn Adpitten": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/brunn-adpitten",
+        "latitude": 47.7245414,
+        "longitude": 16.1872146,
+        "travel_times": {
+            "Schimetta": 72,
+            "Sopron": 76,
+            "Gloggnitz": 84
+        }
+    },
+    "Dorf Adenns": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/dorf-adenns",
+        "latitude": 48.0917582,
+        "longitude": 14.4852368,
+        "travel_times": {
+            "Schimetta": 129,
+            "Sopron": 188,
+            "Gloggnitz": 196
+        }
+    },
+    "Hainburg Addonau Kulturfabrik": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/hainburg-addonau-kulturfabrik",
+        "latitude": 48.1523674,
+        "longitude": 16.9672729,
+        "travel_times": {
+            "Schimetta": 115,
+            "Sopron": 177,
+            "Gloggnitz": 166
+        }
+    },
+    "Hainburg Addonau Personenbf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/hainburg-addonau-personenbf",
+        "latitude": 48.1523674,
+        "longitude": 16.9672729,
+        "travel_times": {
+            "Schimetta": 115,
+            "Sopron": 177,
+            "Gloggnitz": 166
+        }
+    },
+    "Hainburg Addonau Ungartor": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/hainburg-addonau-ungartor",
+        "latitude": 48.1523674,
+        "longitude": 16.9672729,
+        "travel_times": {
+            "Schimetta": 115,
+            "Sopron": 177,
+            "Gloggnitz": 166
+        }
+    },
+    "Hoeflein Addonau": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/hoeflein-addonau",
+        "latitude": 48.3499487,
+        "longitude": 16.2722516,
+        "travel_times": {
+            "Schimetta": 48,
+            "Sopron": 129,
+            "Gloggnitz": 117
+        }
+    },
+    "Markersdorf Adpielach": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/markersdorf-adpielach",
+        "latitude": 48.19442,
+        "longitude": 15.49897,
+        "travel_times": {
+            "Schimetta": 69,
+            "Sopron": 128,
+            "Gloggnitz": 136
+        }
+    },
+    "Neumarkt Ady Karlsbach": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/neumarkt-ady-karlsbach",
+        "latitude": 48.1413581,
+        "longitude": 15.0579595,
+        "travel_times": {
+            "Schimetta": 95,
+            "Sopron": 148,
+            "Gloggnitz": 136
+        }
+    },
+    "Pottenstein Adtriesting": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/pottenstein-adtriesting",
+        "latitude": 47.9613727,
+        "longitude": 16.089836,
+        "travel_times": {
+            "Schimetta": 91,
+            "Sopron": 125,
+            "Gloggnitz": 133
+        }
+    },
+    "Rohrbach Adgoelsen": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/rohrbach-adgoelsen",
+        "latitude": 48.04788,
+        "longitude": 15.7425205,
+        "travel_times": {
+            "Schimetta": 101,
+            "Sopron": 154,
+            "Gloggnitz": 143
+        }
+    },
+    "Sierndorf Admarch": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/sierndorf-admarch",
+        "latitude": 48.5096639,
+        "longitude": 16.8869946,
+        "travel_times": {
+            "Schimetta": 87,
+            "Sopron": 172,
+            "Gloggnitz": 160
+        }
+    },
+    "Stveit Adgoelsen": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/stveit-adgoelsen",
+        "latitude": 48.0446055,
+        "longitude": 15.6730324,
+        "travel_times": {
+            "Schimetta": 95,
+            "Sopron": 148,
+            "Gloggnitz": 137
+        }
+    },
+    "Stveit Adtriesting": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/stveit-adtriesting",
+        "latitude": 47.9332173,
+        "longitude": 16.1488132,
+        "travel_times": {
+            "Schimetta": 70,
+            "Sopron": 104,
+            "Gloggnitz": 112
+        }
+    },
+    "Stadt Waidhofen Adybbs": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/stadt-waidhofen-adybbs",
+        "latitude": 47.9582943,
+        "longitude": 14.7677561,
+        "travel_times": {
+            "Schimetta": 100,
+            "Sopron": 171,
+            "Gloggnitz": 179
+        }
+    },
+    "Waidhofen Adybbs": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/waidhofen-adybbs",
+        "latitude": 47.9682706,
+        "longitude": 14.7657073,
+        "travel_times": {
+            "Schimetta": 106,
+            "Sopron": 177,
+            "Gloggnitz": 185
+        }
+    },
+    "Wieselburg Aderlauf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/wieselburg-aderlauf",
+        "latitude": 48.1286025,
+        "longitude": 15.1386275,
+        "travel_times": {
+            "Schimetta": 114,
+            "Sopron": 155,
+            "Gloggnitz": 144
+        }
+    },
+    "Wilhelmsburg Adtraisen": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/wilhelmsburg-adtraisen",
+        "latitude": 48.1114144,
+        "longitude": 15.6081962,
+        "travel_times": {
+            "Schimetta": 64,
+            "Sopron": 118,
+            "Gloggnitz": 106
+        }
+    },
+    "Ybbs Addonau": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/ybbs-addonau",
+        "latitude": 48.15887009999999,
+        "longitude": 15.100054,
+        "travel_times": {
+            "Schimetta": 89,
+            "Sopron": 134,
+            "Gloggnitz": 122
+        }
+    },
+    "Wien Bruennerstrasse": {
+        "original_name": "https://bahnhof.oebb.at/de/wien/wien-bruennerstrasse",
+        "latitude": 48.2683377,
+        "longitude": 16.4030829,
+        "travel_times": {
+            "Schimetta": 35,
+            "Sopron": 119,
+            "Gloggnitz": 107
+        }
+    },
+    "Breiteneich Bei Horn": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/breiteneich-bei-horn",
+        "latitude": 48.67563,
+        "longitude": 15.69408,
+        "travel_times": {
+            "Schimetta": 116,
+            "Sopron": 175,
+            "Gloggnitz": 220
+        }
+    },
+    "Breitensee Noe": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/breitensee-noe",
+        "latitude": 48.24502,
+        "longitude": 16.87988,
+        "travel_times": {
+            "Schimetta": 86,
+            "Sopron": 144,
+            "Gloggnitz": 133
+        }
+    },
+    "Flughafen Wien": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/flughafen-wien",
+        "latitude": 48.1200682,
+        "longitude": 16.5631123,
+        "travel_times": {
+            "Schimetta": 42,
+            "Sopron": 98,
+            "Gloggnitz": 86
+        }
+    },
+    "Laa Adthaya": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/laa-adthaya",
+        "latitude": 48.722877,
+        "longitude": 16.4028893,
+        "travel_times": {
+            "Schimetta": 106,
+            "Sopron": 190,
+            "Gloggnitz": 198
+        }
+    },
+    "Marktl": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/marktl",
+        "latitude": 48.02579,
+        "longitude": 15.60359,
+        "travel_times": {
+            "Schimetta": 92,
+            "Sopron": 146,
+            "Gloggnitz": 134
+        }
+    },
+    "Neunkirchen Noe": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/neunkirchen-noe",
+        "latitude": 47.7590498,
+        "longitude": 16.1493027,
+        "travel_times": {
+            "Schimetta": 61,
+            "Sopron": 64,
+            "Gloggnitz": 20
+        }
+    },
+    "Ober Olberndorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/ober-olberndorf",
+        "latitude": 48.41001019999999,
+        "longitude": 16.1761728,
+        "travel_times": {
+            "Schimetta": 73,
+            "Sopron": 157,
+            "Gloggnitz": 145
+        }
+    },
+    "Ober Piesting": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/ober-piesting",
+        "latitude": 47.8747199,
+        "longitude": 16.1252323,
+        "travel_times": {
+            "Schimetta": 73,
+            "Sopron": 72,
+            "Gloggnitz": 80
+        }
+    },
+    "Ober Radlberg": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/ober-radlberg",
+        "latitude": 48.24181,
+        "longitude": 15.66803,
+        "travel_times": {
+            "Schimetta": 66,
+            "Sopron": 127,
+            "Gloggnitz": 116
+        }
+    },
+    "Ober Waltersdorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/ober-waltersdorf",
+        "latitude": 47.9748387,
+        "longitude": 16.3279351,
+        "travel_times": {
+            "Schimetta": 78,
+            "Sopron": 128,
+            "Gloggnitz": 76
+        }
+    },
+    "Schrambach": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/schrambach",
+        "latitude": 48.1262075,
+        "longitude": 15.6128997,
+        "travel_times": {
+            "Schimetta": 81,
+            "Sopron": 135,
+            "Gloggnitz": 123
+        }
+    },
+    "St Poelten Bildungscampus": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/st-poelten-bildungscampus",
+        "latitude": 48.1904444,
+        "longitude": 15.6152028,
+        "travel_times": {
+            "Schimetta": 57,
+            "Sopron": 110,
+            "Gloggnitz": 99
+        }
+    },
+    "St Poelten Hauptbahnhof": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/st-poelten-hauptbahnhof",
+        "latitude": 48.2077063,
+        "longitude": 15.6261108,
+        "travel_times": {
+            "Schimetta": 42,
+            "Sopron": 96,
+            "Gloggnitz": 84
+        }
+    },
+    "St Valentin": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/st-valentin",
+        "latitude": 48.178981,
+        "longitude": 14.5222321,
+        "travel_times": {
+            "Schimetta": 89,
+            "Sopron": 148,
+            "Gloggnitz": 156
+        }
+    },
+    "Trautmannsdorf Adl": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/trautmannsdorf-adl",
+        "latitude": 48.02199030000001,
+        "longitude": 16.6775705,
+        "travel_times": {
+            "Schimetta": 73,
+            "Sopron": 122,
+            "Gloggnitz": 110
+        }
+    },
+    "Untereggendorf": {
+        "original_name": "https://bahnhof.oebb.at/de/niederoesterreich/untereggendorf",
+        "latitude": 47.8604043,
+        "longitude": 16.3229035,
+        "travel_times": {
+            "Schimetta": 62,
+            "Sopron": 55,
+            "Gloggnitz": 68
+        }
+    },
+    "Wien Oper Karlsplatz": {
+        "original_name": "Wien Oper Karlsplatz",
+        "latitude": 48.20234689999999,
+        "longitude": 16.3702422,
+        "travel_times": {
+            "Schimetta": 15,
+            "Sopron": 95,
+            "Gloggnitz": 84
+        }
+    },
+    "Wien Resselgasse": {
+        "original_name": "Wien Resselgasse",
+        "latitude": 48.1989827,
+        "longitude": 16.3687483,
+        "travel_times": {
+            "Schimetta": 15,
+            "Sopron": 95,
+            "Gloggnitz": 83
+        }
+    },
+    "Wien Paulanergasse": {
+        "original_name": "Wien Paulanergasse",
+        "latitude": 48.1959083,
+        "longitude": 16.3666338,
+        "travel_times": {
+            "Schimetta": 21,
+            "Sopron": 93,
+            "Gloggnitz": 81
+        }
+    },
+    "Wien Johann-Strauss-Gasse": {
+        "original_name": "Wien Johann-Strauss-Gasse",
+        "latitude": 48.1876979,
+        "longitude": 16.3681375,
+        "travel_times": {
+            "Schimetta": 27,
+            "Sopron": 90,
+            "Gloggnitz": 77
+        }
+    },
+    "Wien Kliebergasse": {
+        "original_name": "Wien Kliebergasse",
+        "latitude": 48.1838577,
+        "longitude": 16.3634307,
+        "travel_times": {
+            "Schimetta": 21,
+            "Sopron": 85,
+            "Gloggnitz": 73
+        }
+    },
+    "Wien Eichenstraße": {
+        "original_name": "Wien Eichenstraße",
+        "latitude": 48.1764072,
+        "longitude": 16.3401059,
+        "travel_times": {
+            "Schimetta": 15,
+            "Sopron": 74,
+            "Gloggnitz": 62
+        }
+    },
+    "Wien Murlingengasse": {
+        "original_name": "Wien Murlingengasse",
+        "latitude": 48.1770236,
+        "longitude": 16.3397958,
+        "travel_times": {
+            "Schimetta": 14,
+            "Sopron": 76,
+            "Gloggnitz": 64
+        }
+    },
+    "Wien Wolfganggasse": {
+        "original_name": "Wien Wolfganggasse",
+        "latitude": 48.1816608,
+        "longitude": 16.3433232,
+        "travel_times": {
+            "Schimetta": 14,
+            "Sopron": 82,
+            "Gloggnitz": 70
+        }
+    },
+    "Wien Steinbauergasse": {
+        "original_name": "Wien Steinbauergasse",
+        "latitude": 48.1825159,
+        "longitude": 16.3414627,
+        "travel_times": {
+            "Schimetta": 12,
+            "Sopron": 84,
+            "Gloggnitz": 72
+        }
+    },
+    "Wien Aßmayergasse": {
+        "original_name": "Wien Aßmayergasse",
+        "latitude": 48.179596,
+        "longitude": 16.3374116,
+        "travel_times": {
+            "Schimetta": 10,
+            "Sopron": 78,
+            "Gloggnitz": 67
+        }
+    },
+    "Wien Dörfelstraße": {
+        "original_name": "Wien Dörfelstraße",
+        "latitude": 48.20806959999999,
+        "longitude": 16.3713095,
+        "travel_times": {
+            "Schimetta": 21,
+            "Sopron": 95,
+            "Gloggnitz": 78
+        }
+    },
+    "Wien Schedifkaplatz": {
+        "original_name": "Wien Schedifkaplatz",
+        "latitude": 48.1733479,
+        "longitude": 16.3306011,
+        "travel_times": {
+            "Schimetta": 12,
+            "Sopron": 71,
+            "Gloggnitz": 59
+        }
+    },
+    "Wien Schönbrunner Allee": {
+        "original_name": "Wien Schönbrunner Allee",
+        "latitude": 48.1711325,
+        "longitude": 16.3116192,
+        "travel_times": {
+            "Schimetta": 20,
+            "Sopron": 82,
+            "Gloggnitz": 70
+        }
+    },
+    "Wien Schöpfwerk": {
+        "original_name": "Wien Schöpfwerk",
+        "latitude": 48.1605117,
+        "longitude": 16.3299844,
+        "travel_times": {
+            "Schimetta": 18,
+            "Sopron": 87,
+            "Gloggnitz": 75
+        }
+    },
+    "Wien Gutheil-Schoder-Gasse": {
+        "original_name": "Wien Gutheil-Schoder-Gasse",
+        "latitude": 48.1588412,
+        "longitude": 16.3350885,
+        "travel_times": {
+            "Schimetta": 21,
+            "Sopron": 84,
+            "Gloggnitz": 76
+        }
+    },
+    "Wien Inzersdorf": {
+        "original_name": "Wien Inzersdorf",
+        "latitude": 48.1358893,
+        "longitude": 16.3573271,
+        "travel_times": {
+            "Schimetta": 52,
+            "Sopron": 92,
+            "Gloggnitz": 93
+        }
+    },
+    "Vösendorf-Siebenhirten": {
+        "original_name": "Vösendorf-Siebenhirten",
+        "latitude": 48.1304145,
+        "longitude": 16.3074004,
+        "travel_times": {
+            "Schimetta": 20,
+            "Sopron": 89,
+            "Gloggnitz": 77
+        }
+    },
+    "Vösendorf": {
+        "original_name": "Vösendorf",
+        "latitude": 48.1222795,
+        "longitude": 16.3347827,
+        "travel_times": {
+            "Schimetta": 44,
+            "Sopron": 111,
+            "Gloggnitz": 100
+        }
+    },
+    "Maria Enzersdorf Südstadt": {
+        "original_name": "Maria Enzersdorf Südstadt",
+        "latitude": 48.0967756,
+        "longitude": 16.3103613,
+        "travel_times": {
+            "Schimetta": 36,
+            "Sopron": 105,
+            "Gloggnitz": 92
+        }
+    },
+    "Wiener Neudorf": {
+        "original_name": "Wiener Neudorf",
+        "latitude": 48.08539620000001,
+        "longitude": 16.320342,
+        "travel_times": {
+            "Schimetta": 40,
+            "Sopron": 108,
+            "Gloggnitz": 91
+        }
+    },
+    "Guntramsdorf Lokalbahn": {
+        "original_name": "Guntramsdorf Lokalbahn",
+        "latitude": 48.04827,
+        "longitude": 16.3121928,
+        "travel_times": {
+            "Schimetta": 40,
+            "Sopron": 108,
+            "Gloggnitz": 75
+        }
+    },
+    "Neu-Guntramsdorf": {
+        "original_name": "Neu-Guntramsdorf",
+        "latitude": 48.06385179999999,
+        "longitude": 16.313738,
+        "travel_times": {
+            "Schimetta": 37,
+            "Sopron": 105,
+            "Gloggnitz": 85
+        }
+    },
+    "Pfaffstätten Rennplatz": {
+        "original_name": "Pfaffstätten Rennplatz",
+        "latitude": 48.0154892,
+        "longitude": 16.26257,
+        "travel_times": {
+            "Schimetta": 63,
+            "Sopron": 96,
+            "Gloggnitz": 84
+        }
+    },
+    "Baden Viadukt": {
+        "original_name": "Baden Viadukt",
+        "latitude": 48.003909,
+        "longitude": 16.2408672,
+        "travel_times": {
+            "Schimetta": 34,
+            "Sopron": 72,
+            "Gloggnitz": 61
+        }
+    },
+    "Baden Josefsplatz": {
+        "original_name": "Baden Josefsplatz",
+        "latitude": 48.0060243,
+        "longitude": 16.2329227,
+        "travel_times": {
+            "Schimetta": 45,
+            "Sopron": 92,
+            "Gloggnitz": 70
+        }
+    },
+    "Kirchberg am Wagram": {
+        "original_name": "Kirchberg am Wagram",
+        "latitude": 48.42739635189675,
+        "longitude": 15.89446317197676,
+        "travel_times": {
+            "Schimetta": 67,
+            "Sopron": 141,
+            "Gloggnitz": 129
+        }
+    },
+    "Weigelsdorf": {
+        "original_name": "Weigelsdorf",
+        "latitude": 47.9515300483798,
+        "longitude": 16.413155337514485,
+        "travel_times": {
+            "Schimetta": 66,
+            "Sopron": 82,
+            "Gloggnitz": 103
+        }
+    },
+    "Zellerndorf": {
+        "original_name": "Zellerndorf",
+        "latitude": 48.69512482228362,
+        "longitude": 15.96832074860767,
+        "travel_times": {
+            "Schimetta": 87,
+            "Sopron": 174,
+            "Gloggnitz": 134
+        }
+    }
+}

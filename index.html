@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interaktív Utazási Időtérkép</title>
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css" />
+
+    <!-- Custom Styles -->
+    <link rel="stylesheet" href="web/style.css">
+</head>
+<body>
+
+    <!-- Header with settings button -->
+    <header>
+		<button id="toggle_controls" class="settings-button">⚙️ Beállítások</button>
+		<button id="toggle_stations" class="settings-button">🚉 Állomások elrejtése</button>
+	</header>
+
+    <!-- Controls Panel (Fixed, overlays map) -->
+    <div class="controls hidden">
+        <h2>Szűrők</h2>
+
+        <!-- Travel Time Filters -->
+        <h3>Vonatállomások</h3>
+        <div class="filter">
+            <label for="slider_Gloggnitz">Gloggnitz:</label>
+            <input type="range" id="slider_Gloggnitz" min="0" max="180" value="180">
+            <input type="number" id="input_Gloggnitz" min="0" max="180" value="180"> perc
+        </div>
+
+        <div class="filter">
+            <label for="slider_Sopron">Sopron:</label>
+            <input type="range" id="slider_Sopron" min="0" max="180" value="180">
+            <input type="number" id="input_Sopron" min="0" max="180" value="180"> perc
+        </div>
+
+        <div class="filter">
+            <label for="slider_Schimetta">Schimetta:</label>
+            <input type="range" id="slider_Schimetta" min="0" max="180" value="180">
+            <input type="number" id="input_Schimetta" min="0" max="180" value="180"> perc
+        </div>
+
+        <!-- Distance Filter -->
+        <h3>Hirdetések</h3>
+        <div class="filter">
+            <label for="slider_Distance">Távolság legközelebbi vonatállomástól:</label>
+            <input type="range" id="slider_Distance" min="0" max="30000" value="30000">
+            <input type="number" id="input_Distance" min="0" max="30000" value="30000"> méter
+        </div>
+
+		<div class="filter">
+			<label for="slider_Price">Max Ár (€):</label>
+			<input type="range" id="slider_Price" min="0" max="400000" step="10000" value="400000">
+			<input type="number" id="input_Price" min="0" max="400000" value="400000">
+		</div>
+
+		<div class="filter">
+			<label for="slider_Size">Min Méret (m²):</label>
+			<input type="range" id="slider_Size" min="0" max="200" step="1" value="0">
+			<input type="number" id="input_Size" min="0" max="200" value="0">
+		</div>
+		<button id="reset_filters" class="settings-button">Szűrők visszaállítása</button>
+    </div>
+
+    <!-- Main Container for Map -->
+    <div class="container">
+        <div id="map"></div>
+    </div>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
+
+    <!-- Custom Script -->
+    <script src="web/script.js"></script>
+
+</body>
+</html>

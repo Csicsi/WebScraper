@@ -1,0 +1,311 @@
+Absdorf-Hippersdorf
+Achau
+Allentsteig
+Altenhof
+Amstetten
+Angern
+Aschbach Haltestelle
+Aspang
+Atzenbrugg
+Ausschlag-Zöbern
+Bad Deutsch Altenburg
+Baden
+Bad Erlach
+Bad Fischau
+Bad Fischau-Brunn
+Bad Vöslau
+Berndorf Fabrik
+Berndorf Stadt
+Bernhardsthal
+Bisamberg
+Blindenmarkt
+Böheimkirchen
+Böhlerwerk a.d. Ybbs
+Breitenreich bei Horn
+Breitensee N.Ö.
+Breitenstein
+Breitenwaida
+Brunn a.d. Pitten
+Brunn an der Schneebergbahn
+Brunn-Maria Enzersdorf
+Buchberg
+Deutsch Wagram
+Dorf a.d. Enns
+Dreistetten
+Drösing
+Dürnkrut
+Dürrwien
+Ebenfurth
+Ebreichsdorf
+Edlitz-Grimmenstein
+Eggenburg
+Eichberg
+Eichgraben-Altlengbach
+Ennsdorf
+Enzersdorf bei Staatz
+Enzesfeld-Lindabrunn
+Erlauf
+Ernsthofen
+Etsdorf-Straß
+Felixdorf
+Fels
+Feuerwerksanstalt
+Fischamend
+Flughafen Wien (VIE)
+Frättingsdorf
+Furth-Göttweig
+Furth-Palt
+Gaisruck
+Grünbach Schule
+Gumpoldskirchen
+Guntersdorf
+Guntramsdorf-Kaiserau Haltestelle
+Guntramsdorf-Thallern
+Gutenstein
+Hadersdorf am Kamp
+Hainburg a.d. Donau Kulturfabrik
+Hainburg a.d. Donau Personenbf
+Hainburg a.d. Donau Ungartor
+Hainfeld
+Haslau an der Donau
+Hausleiten
+Hautzendorf
+Helmahof
+Hennersdorf
+Herzogenburg
+Herzogenburg Stadt
+Herzogenburg-Wielandsthal
+Herzograd
+Hetzmannsdorf-Wullersdorf
+Hilm-Kematen
+Himberg
+Hirschbach
+Hirtenberg
+Höbersdorf
+Höflein a.d. Donau
+Hohenau
+Hollabrunn
+Hörersdorf
+Horn
+Hötzelsdorf-Geras
+Irnfritz
+Jedenspeigen
+Kamegg
+Kapellerfeld
+Katzelsdorf
+Kirchberg am Wagram
+Kirchstetten
+Klamm-Schottwien
+Kledering
+Klosterneuburg-Kierling
+Klosterneuburg-Weidling
+Korneuburg
+Kottingbrunn
+Kottingneusiedl
+Kreisbach
+Krems an der Donau
+Krenstetten-Biberbach
+Kritzendorf
+Kröllendorf
+Krummnußbaum
+Küb
+Laa a.d. Thaya
+Ladendorf
+Langenlebarn
+Langenlois
+Langenzersdorf
+Lanzendorf-Rannersdorf
+Lanzenkirchen
+Laxenburg-Biedermannsdorf
+Leobendorf-Burg Kreuzenstein
+Leobersdorf
+Lilienfeld
+Lilienfeld Krankenhaus
+Limberg-Maissau
+Loosdorf
+Mannswörth
+Marchegg
+Maria Anzbach
+Maria Ellend
+Maria Lanzendorf
+Markersdorf a.d. Pielach
+Markt!
+Mauer-Öhling
+Melk
+Michelhausen
+Miesenbach-Waidmannsfeld
+Mistelbach
+Mistelbach Stadt
+Mödling
+Möllersdorf Aspangbahn
+Moosbierbaum-Heiligeneich
+Muckendorf-Wipfing
+Mühling
+Mühling-Plaika
+Münchendorf
+Neubau-Kreuzstetten
+Neulengbach
+Neulengbach Stadt
+Neumarkt a.d. Y-Karlsbach
+Neunkirchen N.Ö.
+Niederkreuzstetten
+Obereggendorf
+Oberolberndorf
+Oberpiesting
+Oberradlberg
+Obersdorf Haltestelle
+Oberwaltersdorf
+Oberweiden
+Oed
+Ollersbach
+Ortmann
+Paasdorf
+Payerbach-Reichenau
+Perchtoldsdorf
+Pernitz-Muggendorf
+Pernitz Raimundviertel
+Pernitz Wipfelhofstraße
+Petersbaumgarten
+Petronell-Carnuntum
+Petzenkirchen
+Pfaffstätten
+Pfennigbach
+Piesting
+Piesting Harzwerk
+Pitten
+Plank am Kamp
+Platt
+Pöchlarn
+Pottenbrunn
+Pottendorf-Landegg
+Pottenstein a.d. Triesting
+Pottschach
+Pressbaum
+Prinzersdorf
+Puchberg am Schneeberg
+Pürbach-Schrems
+Purgstall
+Purkersdorf Sanatorium
+Purkersdorf Zentrum
+Raasdorf
+Rabensburg
+Rainfeld-Klein Zell
+Ramingdorf-Haidershofen
+Regelsbrunn
+Rekawinkel
+Retz
+Rohrbach a.d. Gölsen
+Rohrendorf
+Rosenau
+Rosenburg
+Rothengrub
+Saffen
+Sarasdorf
+Säusenstein
+Sautern-Schiltern
+Schauboden
+Scheibbs
+Scheiblingkirchen-Warth
+Schleinbach
+Schlöglmühl
+Schönberg am Kamp
+Schönborn-Mallebarn
+Schönfeld-Lassee
+Schrammbach
+Schwarzenau
+Schwechat
+Seebenstein
+Semmering
+Seyring
+Siebenbrunn-Leopoldsdorf
+Siebenhirten
+Sierndorf
+Sierndorf a.d. March
+Sigmundsherberg
+Silberwald
+Sitzenberg-Reidling
+Sollenau
+Sölling
+Sonntagberg
+Spillern
+St. Andrä-Wördern
+St. Egyden
+St. Georgen am Steinfelde
+St. Johann-Weistrach
+St. Peter-Seitenstetten
+St. Pölten Bildungscampus
+St. Pölten Hauptbahnhof
+St. Pölten-Kaiserwald
+St. Pölten-Porschestraße
+St. Pölten Traisenpark
+St. Valentin
+St. Veit a.d. Gölsen
+St. Veit a.d. Triesting
+Staatz
+Stadt Haag
+Stadt Waidhofen a.d. Ybbs
+Statzendorf
+Stiefern
+Stillfried
+Stockerau
+Strasshof Haltestelle
+Tallesbrunn
+Tattendorf
+Teesdorf
+Ternitz
+Theresienfeld
+Traisen
+Traisen Markt
+Traiskirchen Aspangbahn
+Traismauer
+Trasdorf
+Trautmannsdorf a.d.L.
+Trumau
+Tulln an der Donau
+Tullnerbach-Pressbaum
+Tullnerfeld
+Tulln Stadt
+Ulmerfeld-Hausmening
+Ulrichskirchen
+Untereggenberg
+Unter Höflein
+Unterkritzendorf
+Unter Purkersdorf
+Unter Radlberg
+Unterretzbach
+Untersiebenbrunn
+Unter Tullnerbach
+Urschendorf
+Viehofen
+Vitis
+Wagram-Grafenegg
+Waidhofen a.d. Ybbs
+Waldegg
+Waldegg-Dürnbach
+Wampersdorf
+Weigelsdorf
+Weikendorf-Dörfles
+Weissenbach-Neuhaus
+Wiener Neustadt Anemonensee
+Wiener Neustadt Civitas Nova
+Wiener Neustadt Hauptbahnhof
+Wiener Neustadt Nord
+Wieselburg a.d. Erlauf
+Wiesenfeld-Schwarzenbach
+Wildungsmauer
+Wilfleinsdorf
+Wilhelmsburg a.d. Traisen
+Willendorf
+Winzendorf
+Wittmannsdorf
+Wolfsbergkogel
+Wolfsthal
+Wolkersdorf
+Wöllersdorf
+Wöllersdorf Marchgraben
+Wopfing
+Ybbs a.d. Donau
+Zeiselmauer-Königstetten
+Zellendorf
+Ziersdorf
+Zöbing
