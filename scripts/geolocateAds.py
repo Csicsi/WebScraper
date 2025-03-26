@@ -4,7 +4,7 @@ import time
 from config import GOOGLE_API_KEY
 
 DB_NAME = "../data/scraped_ads.db"
-API_KEY = GOOGLE_API_KEY
+GOOGLE_MAPS_API_KEY = GOOGLE_API_KEY
 
 api_call_count = 0
 

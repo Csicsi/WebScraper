@@ -1,7 +1,10 @@
 import sqlite3
 import json
+import os
 
-DB_NAME = "../data/scraped_ads.db"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DB_NAME = os.path.join(BASE_DIR, "../data/scraped_ads.db")
+DB_NAME = os.path.abspath(DB_NAME)  # optional, resolves full path
 
 def create_table():
     """Ensures the database table exists without dropping existing data."""
